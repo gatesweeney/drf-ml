@@ -1,0 +1,20 @@
+For any of the pace projector calls:
+
+PaceType
+1 = No flag
+2 = Fast Early
+3 = Favors horses on or near the lead
+
+In the starter call:
+
+ClassRating_BiasColor
+0 = No color
+1 = Red
+2 = Light Red
+3 = Light Blue
+4 = Blue
+
+FR(1,2,3,4)_Color
+1 = No color
+2 = Red
+3 = Blue

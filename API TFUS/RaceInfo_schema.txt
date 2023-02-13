@@ -1,0 +1,376 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "id": "https://api.timeformus.com/Services/Data/RaceInfo",
+  "type": "object",
+  "properties": {
+    "Race": {
+      "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race",
+      "type": "object",
+      "properties": {
+        "RaceNumber": {
+          "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/RaceNumber",
+          "type": "integer"
+        },
+        "TrackId": {
+          "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/TrackId",
+          "type": "string"
+        },
+        "TrackName": {
+          "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/TrackName",
+          "type": "string"
+        },
+        "Country": {
+          "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/Country",
+          "type": "string"
+        },
+        "RaceDate": {
+          "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/RaceDate",
+          "type": "string"
+        },
+        "Distance": {
+          "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/Distance",
+          "type": "string"
+        },
+        "DistanceAbbreviated": {
+          "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/DistanceAbbreviated",
+          "type": "string"
+        },
+        "RaceCourse": {
+          "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/RaceCourse",
+          "type": "string"
+        },
+        "RaceType": {
+          "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/RaceType",
+          "type": "string"
+        },
+        "RaceTypeLong": {
+          "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/RaceTypeLong",
+          "type": "string"
+        },
+        "StateRestriction": {
+          "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/StateRestriction",
+          "type": "string"
+        },
+        "ClaimingRace": {
+          "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/ClaimingRace",
+          "type": "boolean"
+        },
+        "AgeRestriction": {
+          "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/AgeRestriction",
+          "type": "string"
+        },
+        "SexRestriction": {
+          "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/SexRestriction",
+          "type": "string"
+        },
+        "RacePurse": {
+          "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/RacePurse",
+          "type": "string"
+        },
+        "MinClaimPrice": {
+          "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/MinClaimPrice",
+          "type": "string"
+        },
+        "MaxClaimPrice": {
+          "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/MaxClaimPrice",
+          "type": "string"
+        },
+        "WagerTypes": {
+          "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/WagerTypes",
+          "type": "string"
+        },
+        "RaceDescriptionText": {
+          "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/RaceDescriptionText",
+          "type": "string"
+        },
+        "TrackCondition": {
+          "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/TrackCondition",
+          "type": "string"
+        },
+        "PostTime": {
+          "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/PostTime",
+          "type": "string"
+        },
+        "ClassRating": {
+          "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/ClassRating",
+          "type": "string"
+        },
+        "Final": {
+          "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/Final",
+          "type": "boolean"
+        },
+        "PowerPicks": {
+          "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/PowerPicks",
+          "type": "object",
+          "properties": {
+            "PowerPickOne": {
+              "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/PowerPicks/PowerPickOne",
+              "type": "object",
+              "properties": {
+                "HorseName": {
+                  "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/PowerPicks/PowerPickOne/HorseName",
+                  "type": "string"
+                },
+                "PowerPick": {
+                  "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/PowerPicks/PowerPickOne/PowerPick",
+                  "type": "integer"
+                }
+              }
+            },
+            "PowerPickTwo": {
+              "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/PowerPicks/PowerPickTwo",
+              "type": "object",
+              "properties": {
+                "HorseName": {
+                  "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/PowerPicks/PowerPickTwo/HorseName",
+                  "type": "string"
+                },
+                "PowerPick": {
+                  "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/PowerPicks/PowerPickTwo/PowerPick",
+                  "type": "integer"
+                }
+              }
+            },
+            "PowerPickThree": {
+              "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/PowerPicks/PowerPickThree",
+              "type": "object",
+              "properties": {
+                "HorseName": {
+                  "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/PowerPicks/PowerPickThree/HorseName",
+                  "type": "string"
+                },
+                "PowerPick": {
+                  "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/PowerPicks/PowerPickThree/PowerPick",
+                  "type": "integer"
+                }
+              }
+            }
+          }
+        },
+        "PaceProjector": {
+          "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/PaceProjector",
+          "type": "object",
+          "properties": {
+            "PPLayouts": {
+              "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/PaceProjector/PPLayouts",
+              "type": "array",
+              "items": {
+                "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/PaceProjector/PPLayouts/0",
+                "type": "object",
+                "properties": {
+                  "ProgramNumber": {
+                    "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/PaceProjector/PPLayouts/0/ProgramNumber",
+                    "type": "string"
+                  },
+                  "HorseRow": {
+                    "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/PaceProjector/PPLayouts/0/HorseRow",
+                    "type": "integer"
+                  },
+                  "HorseRowOrder": {
+                    "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/PaceProjector/PPLayouts/0/HorseRowOrder",
+                    "type": "integer"
+                  },
+                  "DistanceBackRow": {
+                    "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/PaceProjector/PPLayouts/0/DistanceBackRow",
+                    "type": "integer"
+                  },
+                  "DistanceBackLeader": {
+                    "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/PaceProjector/PPLayouts/0/DistanceBackLeader",
+                    "type": "integer"
+                  }
+                }
+              }
+            },
+            "PPTexts": {
+              "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/PaceProjector/PPTexts",
+              "type": "array",
+              "items": {
+                "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/PaceProjector/PPTexts/0",
+                "type": "object",
+                "properties": {
+                  "RowNumber": {
+                    "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/PaceProjector/PPTexts/0/RowNumber",
+                    "type": "integer"
+                  },
+                  "RowText": {
+                    "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/PaceProjector/PPTexts/0/RowText",
+                    "type": "string"
+                  }
+                }
+              }
+            },
+            "PaceType": {
+              "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/PaceProjector/PaceType",
+              "type": "integer"
+            }
+          }
+        },
+        "Starters": {
+          "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/Starters",
+          "type": "array",
+          "items": {
+            "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/Starters/0",
+            "type": "object",
+            "properties": {
+              "StarterId": {
+                "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/Starters/0/StarterId",
+                "type": "integer"
+              },
+              "RaceId": {
+                "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/Starters/0/RaceId",
+                "type": "integer"
+              },
+              "ProgramNumber": {
+                "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/Starters/0/ProgramNumber",
+                "type": "string"
+              },
+              "PostPosition": {
+                "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/Starters/0/PostPosition",
+                "type": "integer"
+              },
+              "RegistrationNumber": {
+                "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/Starters/0/RegistrationNumber",
+                "type": "string"
+              },
+              "HorseName": {
+                "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/Starters/0/HorseName",
+                "type": "string"
+              },
+              "MorningLine": {
+                "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/Starters/0/MorningLine",
+                "type": "string"
+              },
+              "Jockey": {
+                "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/Starters/0/Jockey",
+                "type": "string"
+              },
+              "Trainer": {
+                "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/Starters/0/Trainer",
+                "type": "string"
+              },
+              "Owner": {
+                "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/Starters/0/Owner",
+                "type": "string"
+              },
+              "Weight": {
+                "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/Starters/0/Weight",
+                "type": "integer"
+              },
+              "ClaimingPrice": {
+                "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/Starters/0/ClaimingPrice",
+                "type": "integer"
+              },
+              "Equipment": {
+                "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/Starters/0/Equipment",
+                "type": "string"
+              },
+              "Medication": {
+                "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/Starters/0/Medication",
+                "type": "string"
+              },
+              "MTO": {
+                "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/Starters/0/MTO",
+                "type": "boolean"
+              },
+              "AE": {
+                "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/Starters/0/AE",
+                "type": "boolean"
+              },
+              "Scratch": {
+                "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/Starters/0/Scratch",
+                "type": "boolean"
+              },
+              "LiveOdds": {
+                "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/Starters/0/LiveOdds",
+                "type": "string"
+              },
+              "Breeder": {
+                "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/Starters/0/Breeder",
+                "type": "string"
+              },
+              "Sire": {
+                "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/Starters/0/Sire",
+                "type": "string"
+              },
+              "Dam": {
+                "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/Starters/0/Dam",
+                "type": "string"
+              },
+              "SexAgeString": {
+                "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/Starters/0/SexAgeString",
+                "type": "string"
+              },
+              "CareerRecord": {
+                "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/Starters/0/CareerRecord",
+                "type": "string"
+              },
+              "WeightLong": {
+                "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/Starters/0/WeightLong",
+                "type": "string"
+              },
+              "EquipmentLong": {
+                "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/Starters/0/EquipmentLong",
+                "type": "string"
+              },
+              "SpotlightFigure": {
+                "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/Starters/0/SpotlightFigure",
+                "type": "integer"
+              },
+              "RunningStyle": {
+                "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/Starters/0/RunningStyle",
+                "type": "string"
+              },
+              "Checkmarks": {
+                "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/Starters/0/Checkmarks",
+                "type": "integer"
+              },
+              "PedigreeRating": {
+                "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/Starters/0/PedigreeRating",
+                "type": "integer"
+              },
+              "SpotlightSurface": {
+                "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/Starters/0/SpotlightSurface",
+                "type": "string"
+              },
+              "PedigreeRatingConfidence": {
+                "id": "https://api.timeformus.com/Services/Data/RaceInfo/Race/Starters/0/PedigreeRatingConfidence",
+                "type": "boolean"
+              }
+            }
+          }
+        }
+      },
+      "required": [
+        "RaceNumber",
+        "TrackId",
+        "TrackName",
+        "Country",
+        "RaceDate",
+        "Distance",
+        "DistanceAbbreviated",
+        "RaceCourse",
+        "RaceType",
+        "RaceTypeLong",
+        "StateRestriction",
+        "ClaimingRace",
+        "AgeRestriction",
+        "SexRestriction",
+        "RacePurse",
+        "MinClaimPrice",
+        "MaxClaimPrice",
+        "WagerTypes",
+        "RaceDescriptionText",
+        "TrackCondition",
+        "PostTime",
+        "ClassRating",
+        "Final",
+        "PowerPicks",
+        "PaceProjector",
+        "Starters"
+      ]
+    }
+  },
+  "required": [
+    "Race"
+  ]
+}

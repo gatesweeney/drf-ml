@@ -1,0 +1,15 @@
+Please see the below definitions and get requests (which return json).  There are two get requests we've made available with more to come based on your input.
+
+These are the get requests:
+
+GET Services/Data/RaceInfo/{trackId}/{country}/{raceDate}/{raceNumber}
+This is the data pertaining to the race.
+Example URL request: https://api.timeformus.com/Services/Data/RaceInfo/?trackId=[xxx]&?country=[xxx]&?raceDate=[MM/DD/YYYY]&?raceNumber=[xx]
+
+GET Services/Data/RaceStarter/{starterId}
+This is the past performance data related to each starter.
+Example URL request: https://api.timeformus.com/Services/Data/RaceStarter/?starterId=[xxxxxxx]
+
+GET Services/Data/AvailableTracks/{raceDate]
+This is the data pertaining to available tracks.
+Example URL request: https://api.timeformus.com/services/Data/AvailableTracks/?dayOfRace=[mm-dd-yy]

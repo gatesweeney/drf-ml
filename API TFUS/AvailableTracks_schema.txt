@@ -1,0 +1,29 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "id": "https://api.timeformus.com/services/Data/AvailableTracks/",
+  "type": "object",
+  "properties": {
+    "TrackId": {
+      "id": "https://api.timeformus.com/services/Data/AvailableTracks/TrackId",
+      "type": "string"
+    },
+    "TrackName": {
+      "id": "https://api.timeformus.com/services/Data/AvailableTracks/TrackName",
+      "type": "string"
+    },
+    "Country": {
+      "id": "https://api.timeformus.com/services/Data/AvailableTracks/Country",
+      "type": "string"
+    },
+    "NumberOfRaces": {
+      "id": "https://api.timeformus.com/services/Data/AvailableTracks/NumberOfRaces",
+      "type": "integer"
+    }
+  },
+  "required": [
+    "TrackId",
+    "TrackName",
+    "Country",
+    "NumberOfRaces"
+  ]
+}
