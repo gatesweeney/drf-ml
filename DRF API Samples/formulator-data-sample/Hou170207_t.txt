@@ -1,0 +1,366 @@
+"HOU",02/07/2017,1,"MADJIC VAZ A","Lafleur Renee","2Off45-180",17,0.18,0.68
+"HOU",02/07/2017,1,"MADJIC VAZ A","Lafleur Renee","Dirt",87,0.08,0.85
+"HOU",02/07/2017,1,"MADJIC VAZ A","Lafleur Renee","Sprint",82,0.09,0.90
+"HOU",02/07/2017,1,"MADJIC VAZ A","Lafleur Renee","MdnSpWt",21,0.10,0.38
+"HOU",02/07/2017,1,"RV BINT ROUGE A","Spann Lori","+180Days",2,0.00,0.00
+"HOU",02/07/2017,1,"RV BINT ROUGE A","Spann Lori","Dirt",9,0.00,0.00
+"HOU",02/07/2017,1,"RV BINT ROUGE A","Spann Lori","Sprint",9,0.00,0.00
+"HOU",02/07/2017,1,"RV BINT ROUGE A","Spann Lori","MdnSpWt",4,0.00,0.00
+"HOU",02/07/2017,1,"TA MY VIRGULE A","Schneider Eric W","2OffOver180",1,0.00,0.00
+"HOU",02/07/2017,1,"TA MY VIRGULE A","Schneider Eric W","Dirt",50,0.06,0.85
+"HOU",02/07/2017,1,"TA MY VIRGULE A","Schneider Eric W","Sprint",52,0.06,0.82
+"HOU",02/07/2017,1,"TA MY VIRGULE A","Schneider Eric W","MdnSpWt",18,0.11,1.76
+"HOU",02/07/2017,1,"TM BIG PAPA A","Lafleur Renee","2Off45-180",17,0.18,0.68
+"HOU",02/07/2017,1,"TM BIG PAPA A","Lafleur Renee","Dirt",87,0.08,0.85
+"HOU",02/07/2017,1,"TM BIG PAPA A","Lafleur Renee","Sprint",82,0.09,0.90
+"HOU",02/07/2017,1,"TM BIG PAPA A","Lafleur Renee","MdnSpWt",21,0.10,0.38
+"HOU",02/07/2017,1,"TTT CHARCOAL CHARLIE A","Rodriguez-Torres Jose","2Off45-180",9,0.11,1.44
+"HOU",02/07/2017,1,"TTT CHARCOAL CHARLIE A","Rodriguez-Torres Jose","Dirt",39,0.03,0.41
+"HOU",02/07/2017,1,"TTT CHARCOAL CHARLIE A","Rodriguez-Torres Jose","Sprint",31,0.03,0.52
+"HOU",02/07/2017,1,"TTT CHARCOAL CHARLIE A","Rodriguez-Torres Jose","MdnSpWt",6,0.00,0.00
+"HOU",02/07/2017,1,"WMA PRAIRIE WIND A","Brooks Jeffery C","Dirt",4,0.00,0.00
+"HOU",02/07/2017,1,"WMA PRAIRIE WIND A","Brooks Jeffery C","Sprint",4,0.00,0.00
+"HOU",02/07/2017,1,"WMA PRAIRIE WIND A","Brooks Jeffery C","MdnSpWt",4,0.00,0.00
+"HOU",02/07/2017,1,"WMA PRIMROSE LANE A","Deleon Rita","Mdn2ndStart",4,0.25,1.60
+"HOU",02/07/2017,1,"WMA PRIMROSE LANE A","Deleon Rita","Dirt",24,0.08,0.48
+"HOU",02/07/2017,1,"WMA PRIMROSE LANE A","Deleon Rita","Sprint",24,0.08,0.48
+"HOU",02/07/2017,1,"WMA PRIMROSE LANE A","Deleon Rita","MdnSpWt",18,0.11,0.64
+"HOU",02/07/2017,1,"WMA SPECIAL ROSE A","Brooks Jeffery C","Dirt",4,0.00,0.00
+"HOU",02/07/2017,1,"WMA SPECIAL ROSE A","Brooks Jeffery C","Sprint",4,0.00,0.00
+"HOU",02/07/2017,1,"WMA SPECIAL ROSE A","Brooks Jeffery C","MdnSpWt",4,0.00,0.00
+"HOU",02/07/2017,1,"WMA SUCCESS SYMBOL A","Deleon Rita","Mdn2ndStart",4,0.25,1.60
+"HOU",02/07/2017,1,"WMA SUCCESS SYMBOL A","Deleon Rita","Dirt",24,0.08,0.48
+"HOU",02/07/2017,1,"WMA SUCCESS SYMBOL A","Deleon Rita","Sprint",24,0.08,0.48
+"HOU",02/07/2017,1,"WMA SUCCESS SYMBOL A","Deleon Rita","MdnSpWt",18,0.11,0.64
+"HOU",02/07/2017,1,"ZANDERMAN A","Garza Benjamin","61-180Days",2,0.50,1.70
+"HOU",02/07/2017,1,"ZANDERMAN A","Garza Benjamin","Dirt",20,0.15,0.97
+"HOU",02/07/2017,1,"ZANDERMAN A","Garza Benjamin","Sprint",15,0.20,1.29
+"HOU",02/07/2017,1,"ZANDERMAN A","Garza Benjamin","MdnSpWt",7,0.14,0.43
+"HOU",02/07/2017,2,"Country Club Diner","Helzer James E","2Off45-180",7,0.14,1.29
+"HOU",02/07/2017,2,"Country Club Diner","Helzer James E","Turf/Dirt",5,0.20,1.84
+"HOU",02/07/2017,2,"Country Club Diner","Helzer James E","Dirt",58,0.16,2.42
+"HOU",02/07/2017,2,"Country Club Diner","Helzer James E","Sprint",71,0.13,1.98
+"HOU",02/07/2017,2,"Country Club Diner","Helzer James E","Claim",26,0.12,1.28
+"HOU",02/07/2017,2,"Devilish Menhal","Chacaltana Domingo","2Off45-180",22,0.05,0.46
+"HOU",02/07/2017,2,"Devilish Menhal","Chacaltana Domingo","WonLastStart",12,0.08,0.75
+"HOU",02/07/2017,2,"Devilish Menhal","Chacaltana Domingo","Dirt",144,0.06,0.64
+"HOU",02/07/2017,2,"Devilish Menhal","Chacaltana Domingo","Sprint",123,0.06,0.76
+"HOU",02/07/2017,2,"Devilish Menhal","Chacaltana Domingo","Claim",102,0.05,0.56
+"HOU",02/07/2017,2,"Jesse James","Schneider Eric W","2Off45-180",11,0.00,0.00
+"HOU",02/07/2017,2,"Jesse James","Schneider Eric W","Dirt",50,0.06,0.85
+"HOU",02/07/2017,2,"Jesse James","Schneider Eric W","Sprint",52,0.06,0.82
+"HOU",02/07/2017,2,"Jesse James","Schneider Eric W","Claim",29,0.00,0.00
+"HOU",02/07/2017,2,"Jim Tat","Martinez Jose M","2Off45-180",8,0.00,0.00
+"HOU",02/07/2017,2,"Jim Tat","Martinez Jose M","Dirt",28,0.07,1.18
+"HOU",02/07/2017,2,"Jim Tat","Martinez Jose M","Sprint",18,0.00,0.00
+"HOU",02/07/2017,2,"Jim Tat","Martinez Jose M","Claim",22,0.05,0.26
+"HOU",02/07/2017,2,"Princeoffivesides","Bravenec Darrell","61-180Days",6,0.00,0.00
+"HOU",02/07/2017,2,"Princeoffivesides","Bravenec Darrell","Turf/Dirt",7,0.00,0.00
+"HOU",02/07/2017,2,"Princeoffivesides","Bravenec Darrell","Dirt",19,0.05,0.67
+"HOU",02/07/2017,2,"Princeoffivesides","Bravenec Darrell","Sprint",38,0.13,2.88
+"HOU",02/07/2017,2,"Princeoffivesides","Bravenec Darrell","Claim",6,0.17,1.07
+"HOU",02/07/2017,2,"Rooster Ray","Eliott Roger","2Off45-180",6,0.00,0.00
+"HOU",02/07/2017,2,"Rooster Ray","Eliott Roger","WonLastStart",1,0.00,0.00
+"HOU",02/07/2017,2,"Rooster Ray","Eliott Roger","Dirt",32,0.03,0.34
+"HOU",02/07/2017,2,"Rooster Ray","Eliott Roger","Sprint",34,0.03,0.32
+"HOU",02/07/2017,2,"Rooster Ray","Eliott Roger","Claim",17,0.00,0.00
+"HOU",02/07/2017,2,"Texas Gator","Pickard Robert J","2Off45-180",12,0.08,0.55
+"HOU",02/07/2017,2,"Texas Gator","Pickard Robert J","Dirt",35,0.14,2.09
+"HOU",02/07/2017,2,"Texas Gator","Pickard Robert J","Sprint",50,0.12,1.60
+"HOU",02/07/2017,2,"Texas Gator","Pickard Robert J","Claim",47,0.11,1.31
+"HOU",02/07/2017,2,"Weknewuweretrouble","Milligan Allen","Dirt",329,0.11,1.10
+"HOU",02/07/2017,2,"Weknewuweretrouble","Milligan Allen","Sprint",275,0.10,0.92
+"HOU",02/07/2017,2,"Weknewuweretrouble","Milligan Allen","Claim",144,0.08,0.86
+"HOU",02/07/2017,3,"Auesome Josey","Hibdon Mark N","2Off45-180",31,0.03,0.66
+"HOU",02/07/2017,3,"Auesome Josey","Hibdon Mark N","Dirt/Turf",40,0.03,2.02
+"HOU",02/07/2017,3,"Auesome Josey","Hibdon Mark N","Turf",65,0.05,1.63
+"HOU",02/07/2017,3,"Auesome Josey","Hibdon Mark N","Sprint",161,0.08,1.81
+"HOU",02/07/2017,3,"Auesome Josey","Hibdon Mark N","MdnSpWt",23,0.09,4.58
+"HOU",02/07/2017,3,"Madjackell","Castellanos Jaime","61-180Days",17,0.18,2.98
+"HOU",02/07/2017,3,"Madjackell","Castellanos Jaime","Turf",13,0.00,0.00
+"HOU",02/07/2017,3,"Madjackell","Castellanos Jaime","Sprint",53,0.17,1.94
+"HOU",02/07/2017,3,"Madjackell","Castellanos Jaime","MdnSpWt",20,0.25,3.49
+"HOU",02/07/2017,3,"Menhal's Lady","Davidson M Brent","2OffOver180",9,0.22,1.29
+"HOU",02/07/2017,3,"Menhal's Lady","Davidson M Brent","Dirt/Turf",52,0.04,1.08
+"HOU",02/07/2017,3,"Menhal's Lady","Davidson M Brent","Turf",111,0.04,0.73
+"HOU",02/07/2017,3,"Menhal's Lady","Davidson M Brent","Sprint",221,0.06,0.60
+"HOU",02/07/2017,3,"Menhal's Lady","Davidson M Brent","MdnSpWt",67,0.04,0.22
+"HOU",02/07/2017,3,"Mystery Play","Willis Mindy","1stStart",9,0.00,0.00
+"HOU",02/07/2017,3,"Mystery Play","Willis Mindy","1stTurf",12,0.08,1.42
+"HOU",02/07/2017,3,"Mystery Play","Willis Mindy","Turf",177,0.09,1.92
+"HOU",02/07/2017,3,"Mystery Play","Willis Mindy","Sprint",162,0.17,2.60
+"HOU",02/07/2017,3,"Mystery Play","Willis Mindy","MdnSpWt",35,0.14,2.53
+"HOU",02/07/2017,3,"Our Flashy Girl","Gustafson Austin","Mdn2ndStart",2,0.00,0.00
+"HOU",02/07/2017,3,"Our Flashy Girl","Gustafson Austin","1stTurf",2,0.00,0.00
+"HOU",02/07/2017,3,"Our Flashy Girl","Gustafson Austin","Dirt/Turf",3,0.33,3.27
+"HOU",02/07/2017,3,"Our Flashy Girl","Gustafson Austin","Turf",11,0.09,0.89
+"HOU",02/07/2017,3,"Our Flashy Girl","Gustafson Austin","Sprint",91,0.16,1.24
+"HOU",02/07/2017,3,"Our Flashy Girl","Gustafson Austin","MdnSpWt",9,0.22,1.16
+"HOU",02/07/2017,3,"Prevailing","Calhoun William Bret","Turf",207,0.22,1.54
+"HOU",02/07/2017,3,"Prevailing","Calhoun William Bret","Sprint",454,0.22,1.56
+"HOU",02/07/2017,3,"Prevailing","Calhoun William Bret","MdnSpWt",159,0.16,1.45
+"HOU",02/07/2017,3,"Rain On Me","Jerman Jerry","1stTurf",2,0.00,0.00
+"HOU",02/07/2017,3,"Rain On Me","Jerman Jerry","Dirt/Turf",1,0.00,0.00
+"HOU",02/07/2017,3,"Rain On Me","Jerman Jerry","Turf",2,0.00,0.00
+"HOU",02/07/2017,3,"Rain On Me","Jerman Jerry","Sprint",13,0.15,1.75
+"HOU",02/07/2017,3,"Rain On Me","Jerman Jerry","MdnSpWt",1,1.00,6.00
+"HOU",02/07/2017,3,"Rangers Deelite","Lafleur Renee","61-180Days",18,0.00,0.00
+"HOU",02/07/2017,3,"Rangers Deelite","Lafleur Renee","Mdn2ndStart",3,0.00,0.00
+"HOU",02/07/2017,3,"Rangers Deelite","Lafleur Renee","1stTurf",1,0.00,0.00
+"HOU",02/07/2017,3,"Rangers Deelite","Lafleur Renee","Dirt/Turf",1,0.00,0.00
+"HOU",02/07/2017,3,"Rangers Deelite","Lafleur Renee","Turf",2,0.00,0.00
+"HOU",02/07/2017,3,"Rangers Deelite","Lafleur Renee","Sprint",82,0.09,0.90
+"HOU",02/07/2017,4,"Jacare","Young Bob","1stStart",10,0.40,4.06
+"HOU",02/07/2017,4,"Jacare","Young Bob","Dirt",100,0.18,2.38
+"HOU",02/07/2017,4,"Jacare","Young Bob","Routes",33,0.12,1.45
+"HOU",02/07/2017,4,"Jacare","Young Bob","MdnSpWt",10,0.40,2.92
+"HOU",02/07/2017,4,"Land of Dixie","Calhoun William Bret","61-180Days",66,0.27,2.42
+"HOU",02/07/2017,4,"Land of Dixie","Calhoun William Bret","Dirt",538,0.21,1.70
+"HOU",02/07/2017,4,"Land of Dixie","Calhoun William Bret","Routes",291,0.21,1.79
+"HOU",02/07/2017,4,"Land of Dixie","Calhoun William Bret","MdnSpWt",159,0.16,1.45
+"HOU",02/07/2017,4,"Pray Some Mo","Meaux Jason H","2Off45-180",10,0.20,2.04
+"HOU",02/07/2017,4,"Pray Some Mo","Meaux Jason H","Turf/Dirt",7,0.00,0.00
+"HOU",02/07/2017,4,"Pray Some Mo","Meaux Jason H","Dirt",74,0.05,0.60
+"HOU",02/07/2017,4,"Pray Some Mo","Meaux Jason H","Routes",28,0.14,3.81
+"HOU",02/07/2017,4,"Pray Some Mo","Meaux Jason H","MdnSpWt",20,0.10,2.72
+"HOU",02/07/2017,4,"Seeking Albert","Hatcher Nathan D","Dirt",61,0.07,1.04
+"HOU",02/07/2017,4,"Seeking Albert","Hatcher Nathan D","Routes",54,0.11,1.11
+"HOU",02/07/2017,4,"Seeking Albert","Hatcher Nathan D","MdnSpWt",4,0.25,2.35
+"HOU",02/07/2017,4,"Smooth Flight","Asmussen Steven M","1stStart",163,0.16,1.45
+"HOU",02/07/2017,4,"Smooth Flight","Asmussen Steven M","Dirt",1353,0.20,1.48
+"HOU",02/07/2017,4,"Smooth Flight","Asmussen Steven M","Routes",703,0.21,1.53
+"HOU",02/07/2017,4,"Smooth Flight","Asmussen Steven M","MdnSpWt",369,0.19,1.37
+"HOU",02/07/2017,4,"Thateldoit","Keen Dallas E","31-60Days",33,0.18,1.22
+"HOU",02/07/2017,4,"Thateldoit","Keen Dallas E","Dirt",70,0.19,1.77
+"HOU",02/07/2017,4,"Thateldoit","Keen Dallas E","Routes",49,0.12,1.37
+"HOU",02/07/2017,4,"Thateldoit","Keen Dallas E","MdnSpWt",15,0.20,4.11
+"HOU",02/07/2017,5,"Full Moon Wish","Fullerton Kris","1stStart",2,0.00,0.00
+"HOU",02/07/2017,5,"Full Moon Wish","Fullerton Kris","1stTurf",4,0.00,0.00
+"HOU",02/07/2017,5,"Full Moon Wish","Fullerton Kris","Turf",14,0.00,0.00
+"HOU",02/07/2017,5,"Full Moon Wish","Fullerton Kris","Sprint",31,0.06,1.25
+"HOU",02/07/2017,5,"Full Moon Wish","Fullerton Kris","MdnSpWt",3,0.00,0.00
+"HOU",02/07/2017,5,"Gatacita","Willis Mindy","61-180Days",37,0.24,3.17
+"HOU",02/07/2017,5,"Gatacita","Willis Mindy","Turf",177,0.09,1.92
+"HOU",02/07/2017,5,"Gatacita","Willis Mindy","Sprint",162,0.17,2.60
+"HOU",02/07/2017,5,"Gatacita","Willis Mindy","MdnSpWt",35,0.14,2.53
+"HOU",02/07/2017,5,"It's All Me","Broberg Karl","2Off45-180",187,0.20,1.01
+"HOU",02/07/2017,5,"It's All Me","Broberg Karl","1-7Days",98,0.19,0.98
+"HOU",02/07/2017,5,"It's All Me","Broberg Karl","1stTurf",19,0.00,0.00
+"HOU",02/07/2017,5,"It's All Me","Broberg Karl","Dirt/Turf",97,0.18,1.52
+"HOU",02/07/2017,5,"It's All Me","Broberg Karl","WonLastStart",380,0.26,1.41
+"HOU",02/07/2017,5,"It's All Me","Broberg Karl","Turf",216,0.18,1.23
+"HOU",02/07/2017,5,"Rose Cape","Elmegreen David","+180Days",2,0.00,0.00
+"HOU",02/07/2017,5,"Rose Cape","Elmegreen David","Turf",8,0.00,0.00
+"HOU",02/07/2017,5,"Rose Cape","Elmegreen David","Sprint",7,0.00,0.00
+"HOU",02/07/2017,5,"Rose Cape","Elmegreen David","MdnSpWt",7,0.00,0.00
+"HOU",02/07/2017,5,"Sassy Sam","Urbina Ruperto R","Dirt/Turf",18,0.11,3.21
+"HOU",02/07/2017,5,"Sassy Sam","Urbina Ruperto R","31-60Days",26,0.04,0.41
+"HOU",02/07/2017,5,"Sassy Sam","Urbina Ruperto R","Turf",36,0.14,2.83
+"HOU",02/07/2017,5,"Sassy Sam","Urbina Ruperto R","Sprint",116,0.09,1.26
+"HOU",02/07/2017,5,"Sassy Sam","Urbina Ruperto R","MdnSpWt",15,0.13,2.25
+"HOU",02/07/2017,5,"She's Worth It","Asmussen Steven M","Dirt/Turf",131,0.13,1.22
+"HOU",02/07/2017,5,"She's Worth It","Asmussen Steven M","Turf",367,0.19,1.63
+"HOU",02/07/2017,5,"She's Worth It","Asmussen Steven M","Sprint",1017,0.19,1.49
+"HOU",02/07/2017,5,"She's Worth It","Asmussen Steven M","MdnSpWt",369,0.19,1.37
+"HOU",02/07/2017,5,"Smoother","Wiggins Lon","Mdn2ndStart",4,0.25,1.85
+"HOU",02/07/2017,5,"Smoother","Wiggins Lon","1stTurf",7,0.29,2.69
+"HOU",02/07/2017,5,"Smoother","Wiggins Lon","Dirt/Turf",7,0.14,1.06
+"HOU",02/07/2017,5,"Smoother","Wiggins Lon","31-60Days",18,0.06,0.50
+"HOU",02/07/2017,5,"Smoother","Wiggins Lon","Turf",14,0.14,1.34
+"HOU",02/07/2017,5,"Smoother","Wiggins Lon","Sprint",35,0.09,1.21
+"HOU",02/07/2017,5,"Snoring Suzzzz","Ervin Jody","2OffOver180",2,0.00,0.00
+"HOU",02/07/2017,5,"Snoring Suzzzz","Ervin Jody","Dirt/Turf",10,0.10,2.52
+"HOU",02/07/2017,5,"Snoring Suzzzz","Ervin Jody","Turf",27,0.04,0.93
+"HOU",02/07/2017,5,"Snoring Suzzzz","Ervin Jody","Sprint",30,0.03,0.84
+"HOU",02/07/2017,5,"Snoring Suzzzz","Ervin Jody","MdnSpWt",11,0.00,0.00
+"HOU",02/07/2017,6,"Ella's Top Cat","Jones Dedrick","1stW/Trn",31,0.03,0.41
+"HOU",02/07/2017,6,"Ella's Top Cat","Jones Dedrick","Dirt",105,0.02,0.09
+"HOU",02/07/2017,6,"Ella's Top Cat","Jones Dedrick","Sprint",89,0.02,0.11
+"HOU",02/07/2017,6,"Ella's Top Cat","Jones Dedrick","Claim",72,0.03,0.27
+"HOU",02/07/2017,6,"Leflore County","Asmussen Steven M","Dirt",1353,0.20,1.48
+"HOU",02/07/2017,6,"Leflore County","Asmussen Steven M","Sprint",1017,0.19,1.49
+"HOU",02/07/2017,6,"Leflore County","Asmussen Steven M","Claim",525,0.23,1.81
+"HOU",02/07/2017,6,"Mighty Rhett","Grisham Christie","61-180Days",4,0.00,0.00
+"HOU",02/07/2017,6,"Mighty Rhett","Grisham Christie","Dirt",27,0.00,0.00
+"HOU",02/07/2017,6,"Mighty Rhett","Grisham Christie","Sprint",32,0.00,0.00
+"HOU",02/07/2017,6,"Mighty Rhett","Grisham Christie","Claim",13,0.08,1.15
+"HOU",02/07/2017,6,"Oldfashion Justice","Short Thomas","WonLastStart",24,0.13,1.38
+"HOU",02/07/2017,6,"Oldfashion Justice","Short Thomas","Dirt",223,0.10,1.60
+"HOU",02/07/2017,6,"Oldfashion Justice","Short Thomas","Sprint",185,0.10,1.50
+"HOU",02/07/2017,6,"Oldfashion Justice","Short Thomas","Claim",113,0.14,1.32
+"HOU",02/07/2017,6,"Runaway Wilson","Urbina Ruperto R","2Off45-180",13,0.00,0.00
+"HOU",02/07/2017,6,"Runaway Wilson","Urbina Ruperto R","Turf/Dirt",19,0.16,2.52
+"HOU",02/07/2017,6,"Runaway Wilson","Urbina Ruperto R","Dirt",122,0.09,1.32
+"HOU",02/07/2017,6,"Runaway Wilson","Urbina Ruperto R","Sprint",116,0.09,1.26
+"HOU",02/07/2017,6,"Runaway Wilson","Urbina Ruperto R","Claim",81,0.11,1.66
+"HOU",02/07/2017,6,"University Park","Gustafson Austin","2Off45-180",10,0.20,1.78
+"HOU",02/07/2017,6,"University Park","Gustafson Austin","Dirt",122,0.11,0.85
+"HOU",02/07/2017,6,"University Park","Gustafson Austin","Sprint",91,0.16,1.24
+"HOU",02/07/2017,6,"University Park","Gustafson Austin","Claim",92,0.11,0.74
+"HOU",02/07/2017,6,"Upforwhatever","Offolter Joe S","1stW/Trn",11,0.27,2.07
+"HOU",02/07/2017,6,"Upforwhatever","Offolter Joe S","+180Days",9,0.00,0.00
+"HOU",02/07/2017,6,"Upforwhatever","Offolter Joe S","Dirt",262,0.11,1.96
+"HOU",02/07/2017,6,"Upforwhatever","Offolter Joe S","Sprint",201,0.08,1.43
+"HOU",02/07/2017,6,"Upforwhatever","Offolter Joe S","Claim",132,0.12,1.70
+"HOU",02/07/2017,6,"Windy Lou Too","Uriegas Henry E","61-180Days",4,0.00,0.00
+"HOU",02/07/2017,6,"Windy Lou Too","Uriegas Henry E","Dirt",19,0.16,9.56
+"HOU",02/07/2017,6,"Windy Lou Too","Uriegas Henry E","Sprint",18,0.06,3.39
+"HOU",02/07/2017,6,"Windy Lou Too","Uriegas Henry E","Claim",25,0.12,7.26
+"HOU",02/07/2017,7,"Divine Soul","Eoff Terry","2Off45-180",42,0.10,0.58
+"HOU",02/07/2017,7,"Divine Soul","Eoff Terry","Turf",65,0.11,1.17
+"HOU",02/07/2017,7,"Divine Soul","Eoff Terry","Routes",115,0.10,1.26
+"HOU",02/07/2017,7,"Divine Soul","Eoff Terry","Alw",34,0.06,0.98
+"HOU",02/07/2017,7,"Ella's Glory","Willis Mindy","1stClaim",7,0.14,0.89
+"HOU",02/07/2017,7,"Ella's Glory","Willis Mindy","61-180Days",37,0.24,3.17
+"HOU",02/07/2017,7,"Ella's Glory","Willis Mindy","Sprint/Route",34,0.12,0.90
+"HOU",02/07/2017,7,"Ella's Glory","Willis Mindy","Turf",177,0.09,1.92
+"HOU",02/07/2017,7,"Ella's Glory","Willis Mindy","Routes",136,0.10,1.07
+"HOU",02/07/2017,7,"Ella's Glory","Willis Mindy","Alw",57,0.19,4.54
+"HOU",02/07/2017,7,"Indypendent Deputy","Asmussen Steven M","61-180Days",173,0.19,1.23
+"HOU",02/07/2017,7,"Indypendent Deputy","Asmussen Steven M","Turf",367,0.19,1.63
+"HOU",02/07/2017,7,"Indypendent Deputy","Asmussen Steven M","Routes",703,0.21,1.53
+"HOU",02/07/2017,7,"Indypendent Deputy","Asmussen Steven M","Alw",330,0.19,1.59
+"HOU",02/07/2017,7,"Just Leave","Duhon Paul","31-60Days",2,0.00,0.00
+"HOU",02/07/2017,7,"Just Leave","Duhon Paul","Turf",1,0.00,0.00
+"HOU",02/07/2017,7,"Just Leave","Duhon Paul","Routes",4,0.25,1.15
+"HOU",02/07/2017,7,"Mimi's Money","Stuart Clinton C","Dirt/Turf",35,0.14,2.19
+"HOU",02/07/2017,7,"Mimi's Money","Stuart Clinton C","Turf",72,0.14,2.21
+"HOU",02/07/2017,7,"Mimi's Money","Stuart Clinton C","Routes",108,0.17,1.97
+"HOU",02/07/2017,7,"Mimi's Money","Stuart Clinton C","Alw",64,0.17,1.23
+"HOU",02/07/2017,7,"Miss Haloactif","Meaux Jason H","61-180Days",8,0.00,0.00
+"HOU",02/07/2017,7,"Miss Haloactif","Meaux Jason H","Dirt/Turf",10,0.20,7.06
+"HOU",02/07/2017,7,"Miss Haloactif","Meaux Jason H","BlinkOff",3,0.33,21.40
+"HOU",02/07/2017,7,"Miss Haloactif","Meaux Jason H","Turf",17,0.18,7.12
+"HOU",02/07/2017,7,"Miss Haloactif","Meaux Jason H","Routes",28,0.14,3.81
+"HOU",02/07/2017,7,"Miss Haloactif","Meaux Jason H","Alw",10,0.00,0.00
+"HOU",02/07/2017,7,"Plucky","Stuart Clinton C","2Off45-180",23,0.09,0.97
+"HOU",02/07/2017,7,"Plucky","Stuart Clinton C","Dirt/Turf",35,0.14,2.19
+"HOU",02/07/2017,7,"Plucky","Stuart Clinton C","Sprint/Route",33,0.12,1.52
+"HOU",02/07/2017,7,"Plucky","Stuart Clinton C","Turf",72,0.14,2.21
+"HOU",02/07/2017,7,"Plucky","Stuart Clinton C","Routes",108,0.17,1.97
+"HOU",02/07/2017,7,"Plucky","Stuart Clinton C","Alw",64,0.17,1.23
+"HOU",02/07/2017,7,"Special Rockstar","Willis Mindy","+180Days",6,0.33,3.43
+"HOU",02/07/2017,7,"Special Rockstar","Willis Mindy","Dirt/Turf",55,0.07,0.70
+"HOU",02/07/2017,7,"Special Rockstar","Willis Mindy","Turf",177,0.09,1.92
+"HOU",02/07/2017,7,"Special Rockstar","Willis Mindy","Routes",136,0.10,1.07
+"HOU",02/07/2017,7,"Special Rockstar","Willis Mindy","Alw",57,0.19,4.54
+"HOU",02/07/2017,7,"Visual Delight","Pearson Paul M","Dirt/Turf",16,0.19,7.30
+"HOU",02/07/2017,7,"Visual Delight","Pearson Paul M","WonLastStart",24,0.13,1.91
+"HOU",02/07/2017,7,"Visual Delight","Pearson Paul M","Turf",35,0.20,4.49
+"HOU",02/07/2017,7,"Visual Delight","Pearson Paul M","Routes",40,0.13,2.76
+"HOU",02/07/2017,7,"Visual Delight","Pearson Paul M","Alw",25,0.08,1.79
+"HOU",02/07/2017,7,"Youaremyconnection","Bryant George","2Off45-180",65,0.22,1.78
+"HOU",02/07/2017,7,"Youaremyconnection","Bryant George","Dirt/Turf",56,0.13,1.26
+"HOU",02/07/2017,7,"Youaremyconnection","Bryant George","Turf",140,0.16,1.30
+"HOU",02/07/2017,7,"Youaremyconnection","Bryant George","Routes",92,0.16,1.48
+"HOU",02/07/2017,7,"Youaremyconnection","Bryant George","Alw",55,0.09,0.88
+"HOU",02/07/2017,8,"Amerocko","Urbina Ruperto R","61-180Days",14,0.14,3.11
+"HOU",02/07/2017,8,"Amerocko","Urbina Ruperto R","Dirt",122,0.09,1.32
+"HOU",02/07/2017,8,"Amerocko","Urbina Ruperto R","Sprint",116,0.09,1.26
+"HOU",02/07/2017,8,"Amerocko","Urbina Ruperto R","Claim",81,0.11,1.66
+"HOU",02/07/2017,8,"Cajun Streaker","Bryant George","2Off45-180",65,0.22,1.78
+"HOU",02/07/2017,8,"Cajun Streaker","Bryant George","Dirt",195,0.12,1.14
+"HOU",02/07/2017,8,"Cajun Streaker","Bryant George","Sprint",243,0.13,1.10
+"HOU",02/07/2017,8,"Cajun Streaker","Bryant George","Claim",204,0.14,1.17
+"HOU",02/07/2017,8,"Catfeinated","Asmussen Steven M","2Off45-180",218,0.17,1.52
+"HOU",02/07/2017,8,"Catfeinated","Asmussen Steven M","Dirt",1353,0.20,1.48
+"HOU",02/07/2017,8,"Catfeinated","Asmussen Steven M","Sprint",1017,0.19,1.49
+"HOU",02/07/2017,8,"Catfeinated","Asmussen Steven M","Claim",525,0.23,1.81
+"HOU",02/07/2017,8,"Flashingformorluc","Eoff Terry","Dirt",202,0.09,1.20
+"HOU",02/07/2017,8,"Flashingformorluc","Eoff Terry","Sprint",152,0.09,1.14
+"HOU",02/07/2017,8,"Flashingformorluc","Eoff Terry","Claim",116,0.14,1.34
+"HOU",02/07/2017,8,"Legitimate Cat","Offolter Joe S","2Off45-180",43,0.12,2.90
+"HOU",02/07/2017,8,"Legitimate Cat","Offolter Joe S","1stBlink",2,0.00,0.00
+"HOU",02/07/2017,8,"Legitimate Cat","Offolter Joe S","Turf/Dirt",24,0.17,3.38
+"HOU",02/07/2017,8,"Legitimate Cat","Offolter Joe S","BlinkOn",2,0.00,0.00
+"HOU",02/07/2017,8,"Legitimate Cat","Offolter Joe S","Dirt",262,0.11,1.96
+"HOU",02/07/2017,8,"Legitimate Cat","Offolter Joe S","Sprint",201,0.08,1.43
+"HOU",02/07/2017,8,"Mini Mine Mo","Schneider Eric W","61-180Days",9,0.11,1.20
+"HOU",02/07/2017,8,"Mini Mine Mo","Schneider Eric W","Dirt",50,0.06,0.85
+"HOU",02/07/2017,8,"Mini Mine Mo","Schneider Eric W","Sprint",52,0.06,0.82
+"HOU",02/07/2017,8,"Mini Mine Mo","Schneider Eric W","Claim",29,0.00,0.00
+"HOU",02/07/2017,8,"My Charlie Ray","Pearson Paul M","2Off45-180",21,0.24,3.76
+"HOU",02/07/2017,8,"My Charlie Ray","Pearson Paul M","Dirt",126,0.15,1.65
+"HOU",02/07/2017,8,"My Charlie Ray","Pearson Paul M","Sprint",121,0.17,2.10
+"HOU",02/07/2017,8,"My Charlie Ray","Pearson Paul M","Claim",84,0.14,1.23
+"HOU",02/07/2017,8,"Pure Pegasus","Dupuy Allen","Dirt",84,0.10,0.80
+"HOU",02/07/2017,8,"Pure Pegasus","Dupuy Allen","Sprint",64,0.06,0.49
+"HOU",02/07/2017,8,"Pure Pegasus","Dupuy Allen","Claim",68,0.12,0.97
+"HOU",02/07/2017,9,"Colour My World","Davidson M Brent","2Off45-180",39,0.10,1.51
+"HOU",02/07/2017,9,"Colour My World","Davidson M Brent","1stTurf",18,0.00,0.00
+"HOU",02/07/2017,9,"Colour My World","Davidson M Brent","Dirt/Turf",52,0.04,1.08
+"HOU",02/07/2017,9,"Colour My World","Davidson M Brent","Turf",111,0.04,0.73
+"HOU",02/07/2017,9,"Colour My World","Davidson M Brent","Sprint",221,0.06,0.60
+"HOU",02/07/2017,9,"Colour My World","Davidson M Brent","MdnClm",83,0.05,0.44
+"HOU",02/07/2017,9,"Gunny Mo","Smith Dewey P","2Off45-180",15,0.13,2.77
+"HOU",02/07/2017,9,"Gunny Mo","Smith Dewey P","MSWtoMCL",2,0.00,0.00
+"HOU",02/07/2017,9,"Gunny Mo","Smith Dewey P","1stTurf",6,0.50,10.03
+"HOU",02/07/2017,9,"Gunny Mo","Smith Dewey P","Dirt/Turf",10,0.30,6.02
+"HOU",02/07/2017,9,"Gunny Mo","Smith Dewey P","Turf",38,0.16,2.18
+"HOU",02/07/2017,9,"Gunny Mo","Smith Dewey P","Sprint",47,0.13,3.11
+"HOU",02/07/2017,9,"Im Joe Not Flo","Davidson M Brent","2OffOver180",9,0.22,1.29
+"HOU",02/07/2017,9,"Im Joe Not Flo","Davidson M Brent","MSWtoMCL",11,0.09,1.16
+"HOU",02/07/2017,9,"Im Joe Not Flo","Davidson M Brent","1stTurf",18,0.00,0.00
+"HOU",02/07/2017,9,"Im Joe Not Flo","Davidson M Brent","Dirt/Turf",52,0.04,1.08
+"HOU",02/07/2017,9,"Im Joe Not Flo","Davidson M Brent","Turf",111,0.04,0.73
+"HOU",02/07/2017,9,"Im Joe Not Flo","Davidson M Brent","Sprint",221,0.06,0.60
+"HOU",02/07/2017,9,"Kid Ory","Marshall Kenneth W","Route/Sprint",13,0.23,2.00
+"HOU",02/07/2017,9,"Kid Ory","Marshall Kenneth W","Turf",7,0.00,0.00
+"HOU",02/07/2017,9,"Kid Ory","Marshall Kenneth W","Sprint",47,0.21,1.47
+"HOU",02/07/2017,9,"Kid Ory","Marshall Kenneth W","MdnClm",1,0.00,0.00
+"HOU",02/07/2017,9,"Little Tom Blazing","McGill Barry H","Dirt/Turf",2,0.00,0.00
+"HOU",02/07/2017,9,"Little Tom Blazing","McGill Barry H","Turf",2,0.00,0.00
+"HOU",02/07/2017,9,"Little Tom Blazing","McGill Barry H","Sprint",12,0.00,0.00
+"HOU",02/07/2017,9,"Little Tom Blazing","McGill Barry H","MdnClm",11,0.09,0.85
+"HOU",02/07/2017,9,"Mr Fast Dixie Gold","Gonzalez Isai V","1stStart",4,0.00,0.00
+"HOU",02/07/2017,9,"Mr Fast Dixie Gold","Gonzalez Isai V","1stTurf",6,0.00,0.00
+"HOU",02/07/2017,9,"Mr Fast Dixie Gold","Gonzalez Isai V","Turf",25,0.08,0.41
+"HOU",02/07/2017,9,"Mr Fast Dixie Gold","Gonzalez Isai V","Sprint",97,0.14,1.77
+"HOU",02/07/2017,9,"Mr Fast Dixie Gold","Gonzalez Isai V","MdnClm",16,0.13,1.04
+"HOU",02/07/2017,9,"Play for Joy","Schneider Eric W","1stStart",2,0.50,14.50
+"HOU",02/07/2017,9,"Play for Joy","Schneider Eric W","1stTurf",1,0.00,0.00
+"HOU",02/07/2017,9,"Play for Joy","Schneider Eric W","Turf",11,0.00,0.00
+"HOU",02/07/2017,9,"Play for Joy","Schneider Eric W","Sprint",52,0.06,0.82
+"HOU",02/07/2017,9,"Play for Joy","Schneider Eric W","MdnClm",6,0.00,0.00
+"HOU",02/07/2017,9,"Ravengaff","Eliott Roger","2Off45-180",6,0.00,0.00
+"HOU",02/07/2017,9,"Ravengaff","Eliott Roger","Dirt/Turf",3,0.00,0.00
+"HOU",02/07/2017,9,"Ravengaff","Eliott Roger","Turf",13,0.00,0.00
+"HOU",02/07/2017,9,"Ravengaff","Eliott Roger","Sprint",34,0.03,0.32
+"HOU",02/07/2017,9,"Ravengaff","Eliott Roger","MdnClm",16,0.00,0.00
+"HOU",02/07/2017,9,"Trouble","Bryant George","Mdn2ndStart",6,0.17,1.87
+"HOU",02/07/2017,9,"Trouble","Bryant George","1stTurf",9,0.11,0.56
+"HOU",02/07/2017,9,"Trouble","Bryant George","Dirt/Turf",56,0.13,1.26
+"HOU",02/07/2017,9,"Trouble","Bryant George","Turf",140,0.16,1.30
+"HOU",02/07/2017,9,"Trouble","Bryant George","Sprint",243,0.13,1.10
+"HOU",02/07/2017,9,"Trouble","Bryant George","MdnClm",23,0.22,1.39
+"HOU",02/07/2017,10,"J J Jesse","Davidson M Brent","+180Days",11,0.09,2.69
+"HOU",02/07/2017,10,"J J Jesse","Davidson M Brent","Dirt",232,0.07,0.86
+"HOU",02/07/2017,10,"J J Jesse","Davidson M Brent","Sprint",221,0.06,0.60
+"HOU",02/07/2017,10,"J J Jesse","Davidson M Brent","MdnSpWt",67,0.04,0.22
+"HOU",02/07/2017,10,"Miss Master Bird","Roberts Joe B","Dirt",3,0.00,0.00
+"HOU",02/07/2017,10,"Miss Master Bird","Roberts Joe B","Sprint",1,0.00,0.00
+"HOU",02/07/2017,10,"Shiloh County","Johnson Leonard","Dirt",3,0.00,0.00
+"HOU",02/07/2017,10,"Shiloh County","Johnson Leonard","Sprint",2,0.00,0.00
+"HOU",02/07/2017,10,"Shiloh County","Johnson Leonard","MdnSpWt",2,0.00,0.00
+"HOU",02/07/2017,10,"Shining City","Dupuy Allen","1stW/Trn",13,0.23,1.52
+"HOU",02/07/2017,10,"Shining City","Dupuy Allen","+180Days",2,0.00,0.00
+"HOU",02/07/2017,10,"Shining City","Dupuy Allen","Dirt",84,0.10,0.80
+"HOU",02/07/2017,10,"Shining City","Dupuy Allen","Sprint",64,0.06,0.49
+"HOU",02/07/2017,10,"Shining City","Dupuy Allen","MdnSpWt",12,0.00,0.00
+"HOU",02/07/2017,10,"Skirtalicious","Eliott Roger","2Off45-180",6,0.00,0.00
+"HOU",02/07/2017,10,"Skirtalicious","Eliott Roger","Dirt",32,0.03,0.34
+"HOU",02/07/2017,10,"Skirtalicious","Eliott Roger","Sprint",34,0.03,0.32
+"HOU",02/07/2017,10,"Skirtalicious","Eliott Roger","MdnSpWt",9,0.11,1.22
+"HOU",02/07/2017,10,"Solarjazz","Johnston Johnny","2Off45-180",1,1.00,8.40
+"HOU",02/07/2017,10,"Solarjazz","Johnston Johnny","Dirt",14,0.07,0.30
+"HOU",02/07/2017,10,"Solarjazz","Johnston Johnny","Sprint",12,0.17,1.05
+"HOU",02/07/2017,10,"Storm Expectations","Martinez Juan A","Dirt",15,0.00,0.00
+"HOU",02/07/2017,10,"Storm Expectations","Martinez Juan A","Sprint",12,0.00,0.00
+"HOU",02/07/2017,10,"Storm Expectations","Martinez Juan A","MdnSpWt",1,0.00,0.00
+"HOU",02/07/2017,10,"Sweet Normairine","Vaughn James Jr","Dirt",1,0.00,0.00
+"HOU",02/07/2017,10,"Sweet Normairine","Vaughn James Jr","Sprint",1,0.00,0.00
+"HOU",02/07/2017,10,"Sweet Normairine","Vaughn James Jr","MdnSpWt",1,0.00,0.00
+"HOU",02/07/2017,10,"Temtacious","Martinez Jose M","1stStart",5,0.00,0.00
+"HOU",02/07/2017,10,"Temtacious","Martinez Jose M","Dirt",28,0.07,1.18
+"HOU",02/07/2017,10,"Temtacious","Martinez Jose M","Sprint",18,0.00,0.00
+"HOU",02/07/2017,10,"Temtacious","Martinez Jose M","MdnSpWt",8,0.00,0.00

@@ -1,0 +1,1 @@
+<dbo.Charts_TracksRaceDates Charts_TracksRaceDatesID="72278" EquibaseTrackID="PRX" TrackName="Parx Racing" RaceDate="2016-06-27T00:00:00" Country="USA"/>

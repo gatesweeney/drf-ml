@@ -1,0 +1,42 @@
+"LAD",02/07/2017,1,"Pf Agouti Girl","Long Ricky D","2Off45-180",2,0.00,0.00
+"LAD",02/07/2017,1,"Pf Agouti Girl","Long Ricky D","Dirt",6,0.00,0.00
+"LAD",02/07/2017,1,"Pf Agouti Girl","Long Ricky D","Sprint",6,0.00,0.00
+"LAD",02/07/2017,1,"Pf Agouti Girl","Long Ricky D","Claim",3,0.00,0.00
+"LAD",02/07/2017,1,"Tm Chick a Dee Dee","Haywood Vann","Dirt",1,0.00,0.00
+"LAD",02/07/2017,1,"Tm Chick a Dee Dee","Haywood Vann","Sprint",1,0.00,0.00
+"LAD",02/07/2017,1,"Tm Chick a Dee Dee","Haywood Vann","Claim",1,0.00,0.00
+"LAD",02/07/2017,2,"Katbird","Cuevas Dealus Wayne","Dirt",1,0.00,0.00
+"LAD",02/07/2017,2,"Katbird","Cuevas Dealus Wayne","Sprint",1,0.00,0.00
+"LAD",02/07/2017,2,"My First Rodeo","Arey Anthony","61-180Days",2,0.00,0.00
+"LAD",02/07/2017,2,"My First Rodeo","Arey Anthony","Dirt",15,0.00,0.00
+"LAD",02/07/2017,2,"My First Rodeo","Arey Anthony","Sprint",12,0.00,0.00
+"LAD",02/07/2017,2,"My First Rodeo","Arey Anthony","Claim",13,0.00,0.00
+"LAD",02/07/2017,2,"Sheza Alabama Slamma","Vincent Jarvis","2Off45-180",3,0.00,0.00
+"LAD",02/07/2017,2,"Sheza Alabama Slamma","Vincent Jarvis","Dirt",20,0.00,0.00
+"LAD",02/07/2017,2,"Sheza Alabama Slamma","Vincent Jarvis","Sprint",17,0.00,0.00
+"LAD",02/07/2017,2,"Sheza Alabama Slamma","Vincent Jarvis","Claim",12,0.00,0.00
+"LAD",02/07/2017,3,"Jls Hippy Times","Mejia Jacobo","Dirt",3,0.00,0.00
+"LAD",02/07/2017,3,"Jls Hippy Times","Mejia Jacobo","Sprint",2,0.00,0.00
+"LAD",02/07/2017,4,"Lockhart Boy","Madrigal Roberto G","Dirt",2,0.00,0.00
+"LAD",02/07/2017,4,"Lockhart Boy","Madrigal Roberto G","Sprint",2,0.00,0.00
+"LAD",02/07/2017,4,"Sign Here for Corona","Long Ricky D","2Off45-180",2,0.00,0.00
+"LAD",02/07/2017,4,"Sign Here for Corona","Long Ricky D","Dirt",6,0.00,0.00
+"LAD",02/07/2017,4,"Sign Here for Corona","Long Ricky D","Sprint",6,0.00,0.00
+"LAD",02/07/2017,4,"Sign Here for Corona","Long Ricky D","Claim",3,0.00,0.00
+"LAD",02/07/2017,4,"Texas Cuervo Chrome","Stroud Brian","Dirt",1,0.00,0.00
+"LAD",02/07/2017,4,"Texas Cuervo Chrome","Stroud Brian","Sprint",1,0.00,0.00
+"LAD",02/07/2017,4,"Texas Cuervo Chrome","Stroud Brian","Claim",1,0.00,0.00
+"LAD",02/07/2017,5,"Apollitical Start","Rubin Donald","2Off45-180",5,0.00,0.00
+"LAD",02/07/2017,5,"Apollitical Start","Rubin Donald","Dirt",31,0.03,0.28
+"LAD",02/07/2017,5,"Apollitical Start","Rubin Donald","Sprint",30,0.03,0.29
+"LAD",02/07/2017,5,"Apollitical Start","Rubin Donald","Claim",25,0.00,0.00
+"LAD",02/07/2017,6,"Shakem Valentine","Francis Alvin Jr","Dirt",4,0.25,0.80
+"LAD",02/07/2017,6,"Shakem Valentine","Francis Alvin Jr","Sprint",4,0.25,0.80
+"LAD",02/07/2017,6,"Shakem Valentine","Francis Alvin Jr","Claim",4,0.25,0.80
+"LAD",02/07/2017,7,"Egos Special Crown","Dehart Justin","1stW/Trn",1,0.00,0.00
+"LAD",02/07/2017,7,"Egos Special Crown","Dehart Justin","31-60Days",1,0.00,0.00
+"LAD",02/07/2017,7,"Egos Special Crown","Dehart Justin","Dirt",2,0.00,0.00
+"LAD",02/07/2017,7,"Egos Special Crown","Dehart Justin","Sprint",2,0.00,0.00
+"LAD",02/07/2017,7,"Lady in Black","Solis-Guevara Ismael","1stW/Trn",6,0.00,0.00
+"LAD",02/07/2017,7,"Lady in Black","Solis-Guevara Ismael","Dirt",10,0.00,0.00
+"LAD",02/07/2017,7,"Lady in Black","Solis-Guevara Ismael","Sprint",10,0.00,0.00

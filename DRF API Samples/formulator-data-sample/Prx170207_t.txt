@@ -1,0 +1,339 @@
+"PRX",02/07/2017,1,"Boa Sorte","Farro Patricia","Dirt",951,0.15,1.56
+"PRX",02/07/2017,1,"Boa Sorte","Farro Patricia","Sprint",599,0.15,1.55
+"PRX",02/07/2017,1,"Boa Sorte","Farro Patricia","MdnClm",76,0.12,1.21
+"PRX",02/07/2017,1,"Congaree Rose","Serey Juan","Dirt",53,0.04,0.58
+"PRX",02/07/2017,1,"Congaree Rose","Serey Juan","Sprint",39,0.00,0.00
+"PRX",02/07/2017,1,"Congaree Rose","Serey Juan","MdnClm",8,0.00,0.00
+"PRX",02/07/2017,1,"J W Goingtothebank","Guerrero J Guadalupe","61-180Days",14,0.29,5.17
+"PRX",02/07/2017,1,"J W Goingtothebank","Guerrero J Guadalupe","Dirt",178,0.08,1.25
+"PRX",02/07/2017,1,"J W Goingtothebank","Guerrero J Guadalupe","Sprint",109,0.11,1.27
+"PRX",02/07/2017,1,"J W Goingtothebank","Guerrero J Guadalupe","MdnClm",18,0.11,1.18
+"PRX",02/07/2017,1,"Kilrush","Pino Michael V","Mdn2ndStart",8,0.00,0.00
+"PRX",02/07/2017,1,"Kilrush","Pino Michael V","1stBlink",16,0.06,0.57
+"PRX",02/07/2017,1,"Kilrush","Pino Michael V","BlinkOn",19,0.11,0.85
+"PRX",02/07/2017,1,"Kilrush","Pino Michael V","Dirt",295,0.17,1.42
+"PRX",02/07/2017,1,"Kilrush","Pino Michael V","Sprint",211,0.18,1.68
+"PRX",02/07/2017,1,"Kilrush","Pino Michael V","MdnClm",59,0.17,0.95
+"PRX",02/07/2017,1,"Late Night Kiss","Contessa Gary C","2Off45-180",48,0.13,0.91
+"PRX",02/07/2017,1,"Late Night Kiss","Contessa Gary C","Route/Sprint",51,0.12,2.01
+"PRX",02/07/2017,1,"Late Night Kiss","Contessa Gary C","Dirt",362,0.13,1.88
+"PRX",02/07/2017,1,"Late Night Kiss","Contessa Gary C","Sprint",304,0.10,1.31
+"PRX",02/07/2017,1,"Late Night Kiss","Contessa Gary C","MdnClm",183,0.10,0.93
+"PRX",02/07/2017,1,"Little Sister","Serey Mario Jr","Dirt",580,0.17,2.14
+"PRX",02/07/2017,1,"Little Sister","Serey Mario Jr","Sprint",396,0.19,2.54
+"PRX",02/07/2017,1,"Little Sister","Serey Mario Jr","MdnClm",47,0.13,1.05
+"PRX",02/07/2017,1,"Love On Fire","Curry Dee","1stW/Trn",10,0.20,2.28
+"PRX",02/07/2017,1,"Love On Fire","Curry Dee","31-60Days",31,0.03,0.30
+"PRX",02/07/2017,1,"Love On Fire","Curry Dee","Dirt",116,0.07,1.42
+"PRX",02/07/2017,1,"Love On Fire","Curry Dee","Sprint",81,0.06,1.74
+"PRX",02/07/2017,1,"Love On Fire","Curry Dee","MdnClm",24,0.13,2.18
+"PRX",02/07/2017,1,"Madame Curie","Ashby Lynn","61-180Days",16,0.25,2.00
+"PRX",02/07/2017,1,"Madame Curie","Ashby Lynn","Dirt",135,0.10,1.63
+"PRX",02/07/2017,1,"Madame Curie","Ashby Lynn","Sprint",88,0.10,0.95
+"PRX",02/07/2017,1,"Madame Curie","Ashby Lynn","MdnClm",20,0.05,1.57
+"PRX",02/07/2017,1,"Postino's Champion","Farro Patricia","2Off45-180",124,0.19,1.91
+"PRX",02/07/2017,1,"Postino's Champion","Farro Patricia","Dirt",951,0.15,1.56
+"PRX",02/07/2017,1,"Postino's Champion","Farro Patricia","Sprint",599,0.15,1.55
+"PRX",02/07/2017,1,"Postino's Champion","Farro Patricia","MdnClm",76,0.12,1.21
+"PRX",02/07/2017,1,"Princess Mab","Riviezzo Ralph R","Mdn2ndStart",3,0.33,36.13
+"PRX",02/07/2017,1,"Princess Mab","Riviezzo Ralph R","Route/Sprint",8,0.00,0.00
+"PRX",02/07/2017,1,"Princess Mab","Riviezzo Ralph R","Dirt",52,0.00,0.00
+"PRX",02/07/2017,1,"Princess Mab","Riviezzo Ralph R","Sprint",49,0.04,2.72
+"PRX",02/07/2017,1,"Princess Mab","Riviezzo Ralph R","MdnClm",23,0.04,1.09
+"PRX",02/07/2017,1,"Safely Touch","Riviezzo Ralph R","Dirt",52,0.00,0.00
+"PRX",02/07/2017,1,"Safely Touch","Riviezzo Ralph R","Sprint",49,0.04,2.72
+"PRX",02/07/2017,1,"Safely Touch","Riviezzo Ralph R","MdnClm",23,0.04,1.09
+"PRX",02/07/2017,2,"Andrus Athena","Pessanha Ney","Sprint/Route",7,0.00,0.00
+"PRX",02/07/2017,2,"Andrus Athena","Pessanha Ney","2Sprints/Rou",1,0.00,0.00
+"PRX",02/07/2017,2,"Andrus Athena","Pessanha Ney","Dirt",85,0.01,0.54
+"PRX",02/07/2017,2,"Andrus Athena","Pessanha Ney","Routes",28,0.04,1.64
+"PRX",02/07/2017,2,"Andrus Athena","Pessanha Ney","Claim",51,0.02,0.90
+"PRX",02/07/2017,2,"Chubby Charlie","Farro Patricia","Sprint/Route",67,0.13,1.45
+"PRX",02/07/2017,2,"Chubby Charlie","Farro Patricia","Dirt",951,0.15,1.56
+"PRX",02/07/2017,2,"Chubby Charlie","Farro Patricia","Routes",459,0.14,1.45
+"PRX",02/07/2017,2,"Chubby Charlie","Farro Patricia","Claim",793,0.15,1.52
+"PRX",02/07/2017,2,"Idon'tknogoaskanni","Aristone Philip T","Dirt",295,0.09,1.28
+"PRX",02/07/2017,2,"Idon'tknogoaskanni","Aristone Philip T","Routes",99,0.05,0.53
+"PRX",02/07/2017,2,"Idon'tknogoaskanni","Aristone Philip T","Claim",200,0.07,1.00
+"PRX",02/07/2017,2,"Saharan Serenade","Dandy Ronald J","31-60Days",14,0.00,0.00
+"PRX",02/07/2017,2,"Saharan Serenade","Dandy Ronald J","Dirt",80,0.07,0.62
+"PRX",02/07/2017,2,"Saharan Serenade","Dandy Ronald J","Routes",32,0.09,0.63
+"PRX",02/07/2017,2,"Saharan Serenade","Dandy Ronald J","Claim",59,0.08,0.79
+"PRX",02/07/2017,2,"She's Overwelming","Whylie Herold O","1-7Days",5,0.00,0.00
+"PRX",02/07/2017,2,"She's Overwelming","Whylie Herold O","Dirt",139,0.05,1.25
+"PRX",02/07/2017,2,"She's Overwelming","Whylie Herold O","Routes",50,0.04,0.96
+"PRX",02/07/2017,2,"She's Overwelming","Whylie Herold O","Claim",80,0.07,1.73
+"PRX",02/07/2017,2,"Shes Tuff as Nails","Pinkney Dave","Dirt",21,0.10,1.66
+"PRX",02/07/2017,2,"Shes Tuff as Nails","Pinkney Dave","Routes",15,0.00,0.00
+"PRX",02/07/2017,2,"Shes Tuff as Nails","Pinkney Dave","Claim",22,0.09,1.58
+"PRX",02/07/2017,2,"Talk to Me","Aro Michael C","61-180Days",26,0.15,2.29
+"PRX",02/07/2017,2,"Talk to Me","Aro Michael C","Dirt",122,0.12,2.78
+"PRX",02/07/2017,2,"Talk to Me","Aro Michael C","Routes",63,0.19,4.08
+"PRX",02/07/2017,2,"Talk to Me","Aro Michael C","Claim",68,0.10,2.79
+"PRX",02/07/2017,2,"Wild Pantera","Polachek Janet","Sprint/Route",11,0.00,0.00
+"PRX",02/07/2017,2,"Wild Pantera","Polachek Janet","31-60Days",12,0.17,17.45
+"PRX",02/07/2017,2,"Wild Pantera","Polachek Janet","Dirt",62,0.10,5.64
+"PRX",02/07/2017,2,"Wild Pantera","Polachek Janet","Routes",30,0.10,4.15
+"PRX",02/07/2017,2,"Wild Pantera","Polachek Janet","Claim",44,0.11,7.30
+"PRX",02/07/2017,2,"With Sprinkles","Pessanha Ney","Dirt",85,0.01,0.54
+"PRX",02/07/2017,2,"With Sprinkles","Pessanha Ney","Routes",28,0.04,1.64
+"PRX",02/07/2017,2,"With Sprinkles","Pessanha Ney","Claim",51,0.02,0.90
+"PRX",02/07/2017,3,"Eufaula","Velazquez Daniel","1stClaim",15,0.07,0.73
+"PRX",02/07/2017,3,"Eufaula","Velazquez Daniel","2Off45-180",9,0.00,0.00
+"PRX",02/07/2017,3,"Eufaula","Velazquez Daniel","31-60Days",19,0.16,3.57
+"PRX",02/07/2017,3,"Eufaula","Velazquez Daniel","Dirt",90,0.13,1.83
+"PRX",02/07/2017,3,"Eufaula","Velazquez Daniel","Routes",47,0.13,2.27
+"PRX",02/07/2017,3,"Eufaula","Velazquez Daniel","Claim",65,0.14,2.06
+"PRX",02/07/2017,3,"Ignite","Guerrero J Guadalupe","Dirt",178,0.08,1.25
+"PRX",02/07/2017,3,"Ignite","Guerrero J Guadalupe","Routes",89,0.07,1.43
+"PRX",02/07/2017,3,"Ignite","Guerrero J Guadalupe","Claim",115,0.06,0.89
+"PRX",02/07/2017,3,"Kentucky Road","Maker Michael J","1stClaim",77,0.19,1.83
+"PRX",02/07/2017,3,"Kentucky Road","Maker Michael J","61-180Days",119,0.20,2.07
+"PRX",02/07/2017,3,"Kentucky Road","Maker Michael J","Turf/Dirt",174,0.16,1.44
+"PRX",02/07/2017,3,"Kentucky Road","Maker Michael J","Dirt",599,0.20,1.49
+"PRX",02/07/2017,3,"Kentucky Road","Maker Michael J","Routes",810,0.21,1.83
+"PRX",02/07/2017,3,"Kentucky Road","Maker Michael J","Claim",303,0.26,1.88
+"PRX",02/07/2017,3,"Love That","Vazquez Juan C","1stClaim",23,0.17,1.26
+"PRX",02/07/2017,3,"Love That","Vazquez Juan C","31-60Days",80,0.17,1.58
+"PRX",02/07/2017,3,"Love That","Vazquez Juan C","Dirt",282,0.20,1.73
+"PRX",02/07/2017,3,"Love That","Vazquez Juan C","Routes",142,0.18,1.88
+"PRX",02/07/2017,3,"Love That","Vazquez Juan C","Claim",171,0.22,1.87
+"PRX",02/07/2017,3,"R Bling Shines","Pino Michael V","Sprint/Route",27,0.30,1.70
+"PRX",02/07/2017,3,"R Bling Shines","Pino Michael V","2Sprints/Rou",8,0.50,3.50
+"PRX",02/07/2017,3,"R Bling Shines","Pino Michael V","Dirt",295,0.17,1.42
+"PRX",02/07/2017,3,"R Bling Shines","Pino Michael V","Routes",131,0.16,0.96
+"PRX",02/07/2017,3,"R Bling Shines","Pino Michael V","Claim",204,0.18,1.25
+"PRX",02/07/2017,3,"Shakesperian Dream","Sciacca Gary","Dirt",318,0.12,2.46
+"PRX",02/07/2017,3,"Shakesperian Dream","Sciacca Gary","Routes",132,0.14,2.49
+"PRX",02/07/2017,3,"Shakesperian Dream","Sciacca Gary","Claim",158,0.08,1.63
+"PRX",02/07/2017,3,"Sweet Corinna","Wyner Harold","Dirt",192,0.14,1.74
+"PRX",02/07/2017,3,"Sweet Corinna","Wyner Harold","Routes",78,0.19,1.96
+"PRX",02/07/2017,3,"Sweet Corinna","Wyner Harold","Claim",115,0.11,1.29
+"PRX",02/07/2017,4,"Aleander","Milian Carlos J","Dirt",64,0.11,2.73
+"PRX",02/07/2017,4,"Aleander","Milian Carlos J","Sprint",55,0.11,3.03
+"PRX",02/07/2017,4,"Aleander","Milian Carlos J","Claim",42,0.10,2.60
+"PRX",02/07/2017,4,"Because I'm Happy","Jacobson David","2Off45-180",68,0.15,1.23
+"PRX",02/07/2017,4,"Because I'm Happy","Jacobson David","1-7Days",24,0.25,1.43
+"PRX",02/07/2017,4,"Because I'm Happy","Jacobson David","Dirt",450,0.18,1.30
+"PRX",02/07/2017,4,"Because I'm Happy","Jacobson David","Sprint",355,0.17,1.25
+"PRX",02/07/2017,4,"Because I'm Happy","Jacobson David","Claim",331,0.16,1.17
+"PRX",02/07/2017,4,"Browneyed Bachelor","Pinkney Dave","Route/Sprint",2,0.50,13.00
+"PRX",02/07/2017,4,"Browneyed Bachelor","Pinkney Dave","Dirt",21,0.10,1.66
+"PRX",02/07/2017,4,"Browneyed Bachelor","Pinkney Dave","Sprint",7,0.29,4.97
+"PRX",02/07/2017,4,"Browneyed Bachelor","Pinkney Dave","Claim",22,0.09,1.58
+"PRX",02/07/2017,4,"Jacapo","Noble James F","Dirt",24,0.08,1.18
+"PRX",02/07/2017,4,"Jacapo","Noble James F","Sprint",22,0.09,1.28
+"PRX",02/07/2017,4,"Jacapo","Noble James F","Claim",11,0.09,2.13
+"PRX",02/07/2017,4,"Red Rocket Express","Milian Carlos J","WonLastStart",8,0.13,3.27
+"PRX",02/07/2017,4,"Red Rocket Express","Milian Carlos J","Dirt",64,0.11,2.73
+"PRX",02/07/2017,4,"Red Rocket Express","Milian Carlos J","Sprint",55,0.11,3.03
+"PRX",02/07/2017,4,"Red Rocket Express","Milian Carlos J","Claim",42,0.10,2.60
+"PRX",02/07/2017,4,"The Morning Guys","Moore Michael M","Route/Sprint",17,0.00,0.00
+"PRX",02/07/2017,4,"The Morning Guys","Moore Michael M","Dirt",134,0.13,1.74
+"PRX",02/07/2017,4,"The Morning Guys","Moore Michael M","Sprint",91,0.13,1.93
+"PRX",02/07/2017,4,"The Morning Guys","Moore Michael M","Claim",94,0.17,2.24
+"PRX",02/07/2017,4,"Tot","Kantarmaci Mertkan","2Off45-180",14,0.07,4.87
+"PRX",02/07/2017,4,"Tot","Kantarmaci Mertkan","Dirt",175,0.14,2.08
+"PRX",02/07/2017,4,"Tot","Kantarmaci Mertkan","Sprint",100,0.11,2.22
+"PRX",02/07/2017,4,"Tot","Kantarmaci Mertkan","Claim",133,0.13,1.92
+"PRX",02/07/2017,4,"Untethered","Serey Mario Jr","Dirt",580,0.17,2.14
+"PRX",02/07/2017,4,"Untethered","Serey Mario Jr","Sprint",396,0.19,2.54
+"PRX",02/07/2017,4,"Untethered","Serey Mario Jr","Claim",363,0.19,2.18
+"PRX",02/07/2017,5,"Big Man Rocket","DeMasi Kathleen A","2Off45-180",68,0.10,1.59
+"PRX",02/07/2017,5,"Big Man Rocket","DeMasi Kathleen A","Route/Sprint",24,0.08,0.63
+"PRX",02/07/2017,5,"Big Man Rocket","DeMasi Kathleen A","Dirt",301,0.16,1.44
+"PRX",02/07/2017,5,"Big Man Rocket","DeMasi Kathleen A","Sprint",292,0.14,1.07
+"PRX",02/07/2017,5,"Big Man Rocket","DeMasi Kathleen A","Claim",200,0.18,1.84
+"PRX",02/07/2017,5,"El Guero Guantero","DeMasi Kathleen A","31-60Days",151,0.14,1.42
+"PRX",02/07/2017,5,"El Guero Guantero","DeMasi Kathleen A","Dirt",301,0.16,1.44
+"PRX",02/07/2017,5,"El Guero Guantero","DeMasi Kathleen A","Sprint",292,0.14,1.07
+"PRX",02/07/2017,5,"El Guero Guantero","DeMasi Kathleen A","Claim",200,0.18,1.84
+"PRX",02/07/2017,5,"Gambler's Roll","Guerrero Juan Carlos","Dirt",201,0.22,1.84
+"PRX",02/07/2017,5,"Gambler's Roll","Guerrero Juan Carlos","Sprint",122,0.19,1.94
+"PRX",02/07/2017,5,"Gambler's Roll","Guerrero Juan Carlos","Claim",135,0.20,1.60
+"PRX",02/07/2017,5,"Grande Heist","Arroyo Enrique","2Off45-180",20,0.15,0.88
+"PRX",02/07/2017,5,"Grande Heist","Arroyo Enrique","WonLastStart",20,0.25,0.96
+"PRX",02/07/2017,5,"Grande Heist","Arroyo Enrique","Dirt",126,0.20,1.18
+"PRX",02/07/2017,5,"Grande Heist","Arroyo Enrique","Sprint",110,0.18,1.11
+"PRX",02/07/2017,5,"Grande Heist","Arroyo Enrique","Claim",63,0.19,0.85
+"PRX",02/07/2017,5,"Heroic Indeed","Dotolo David","Dirt",79,0.08,3.94
+"PRX",02/07/2017,5,"Heroic Indeed","Dotolo David","Sprint",69,0.07,5.20
+"PRX",02/07/2017,5,"Heroic Indeed","Dotolo David","Claim",54,0.11,6.59
+"PRX",02/07/2017,5,"Mr. Hamilton","Farro Patricia","Dirt",951,0.15,1.56
+"PRX",02/07/2017,5,"Mr. Hamilton","Farro Patricia","Sprint",599,0.15,1.55
+"PRX",02/07/2017,5,"Mr. Hamilton","Farro Patricia","Claim",793,0.15,1.52
+"PRX",02/07/2017,5,"Pierce's Prize","McCaslin John S","1stW/Trn",5,0.20,14.56
+"PRX",02/07/2017,5,"Pierce's Prize","McCaslin John S","61-180Days",5,0.20,14.56
+"PRX",02/07/2017,5,"Pierce's Prize","McCaslin John S","Dirt",63,0.10,2.11
+"PRX",02/07/2017,5,"Pierce's Prize","McCaslin John S","Sprint",44,0.11,2.83
+"PRX",02/07/2017,5,"Pierce's Prize","McCaslin John S","Claim",33,0.03,0.20
+"PRX",02/07/2017,5,"Portent","Martinez Alexander","2Off45-180",4,0.25,5.35
+"PRX",02/07/2017,5,"Portent","Martinez Alexander","Dirt",48,0.17,2.62
+"PRX",02/07/2017,5,"Portent","Martinez Alexander","Sprint",41,0.12,1.91
+"PRX",02/07/2017,5,"Portent","Martinez Alexander","Claim",38,0.18,3.16
+"PRX",02/07/2017,5,"Quiet Miracle","Curry Dee","31-60Days",31,0.03,0.30
+"PRX",02/07/2017,5,"Quiet Miracle","Curry Dee","Dirt",116,0.07,1.42
+"PRX",02/07/2017,5,"Quiet Miracle","Curry Dee","Sprint",81,0.06,1.74
+"PRX",02/07/2017,5,"Quiet Miracle","Curry Dee","Claim",81,0.04,1.34
+"PRX",02/07/2017,5,"Strike Bold","Chacon Gustavo","1-7Days",7,0.00,0.00
+"PRX",02/07/2017,5,"Strike Bold","Chacon Gustavo","WonLastStart",2,0.00,0.00
+"PRX",02/07/2017,5,"Strike Bold","Chacon Gustavo","Dirt",80,0.04,0.77
+"PRX",02/07/2017,5,"Strike Bold","Chacon Gustavo","Sprint",61,0.05,4.36
+"PRX",02/07/2017,5,"Strike Bold","Chacon Gustavo","Claim",77,0.05,3.84
+"PRX",02/07/2017,5,"White Bluff","Guerrero Juan Carlos","Dirt",201,0.22,1.84
+"PRX",02/07/2017,5,"White Bluff","Guerrero Juan Carlos","Sprint",122,0.19,1.94
+"PRX",02/07/2017,5,"White Bluff","Guerrero Juan Carlos","Claim",135,0.20,1.60
+"PRX",02/07/2017,6,"Backyard Boogie","Mann Farrel","2Off45-180",5,0.00,0.00
+"PRX",02/07/2017,6,"Backyard Boogie","Mann Farrel","Dirt",32,0.09,0.54
+"PRX",02/07/2017,6,"Backyard Boogie","Mann Farrel","Sprint",30,0.07,0.41
+"PRX",02/07/2017,6,"Backyard Boogie","Mann Farrel","Claim",15,0.13,0.36
+"PRX",02/07/2017,6,"House Wine","Aro Michael C","Dirt",122,0.12,2.78
+"PRX",02/07/2017,6,"House Wine","Aro Michael C","Sprint",68,0.07,1.82
+"PRX",02/07/2017,6,"House Wine","Aro Michael C","Claim",68,0.10,2.79
+"PRX",02/07/2017,6,"Jojo's Gal","Pattershall Mary A","Dirt",45,0.16,3.40
+"PRX",02/07/2017,6,"Jojo's Gal","Pattershall Mary A","Sprint",19,0.16,3.22
+"PRX",02/07/2017,6,"Jojo's Gal","Pattershall Mary A","Claim",34,0.12,2.96
+"PRX",02/07/2017,6,"Knight Spring","Dotolo David","61-180Days",8,0.13,4.42
+"PRX",02/07/2017,6,"Knight Spring","Dotolo David","Dirt",79,0.08,3.94
+"PRX",02/07/2017,6,"Knight Spring","Dotolo David","Sprint",69,0.07,5.20
+"PRX",02/07/2017,6,"Knight Spring","Dotolo David","Claim",54,0.11,6.59
+"PRX",02/07/2017,6,"My Special Eyes","McCaslin John S","Route/Sprint",7,0.14,10.40
+"PRX",02/07/2017,6,"My Special Eyes","McCaslin John S","Dirt",63,0.10,2.11
+"PRX",02/07/2017,6,"My Special Eyes","McCaslin John S","Sprint",44,0.11,2.83
+"PRX",02/07/2017,6,"My Special Eyes","McCaslin John S","Claim",33,0.03,0.20
+"PRX",02/07/2017,6,"Nice n' Sweet","Brown Howard R Jr","2Off45-180",28,0.18,1.70
+"PRX",02/07/2017,6,"Nice n' Sweet","Brown Howard R Jr","Dirt",214,0.13,1.52
+"PRX",02/07/2017,6,"Nice n' Sweet","Brown Howard R Jr","Sprint",125,0.14,1.42
+"PRX",02/07/2017,6,"Nice n' Sweet","Brown Howard R Jr","Claim",180,0.13,1.54
+"PRX",02/07/2017,6,"Pistol's Shoes","Dunham Bernard G","Dirt",17,0.00,0.00
+"PRX",02/07/2017,6,"Pistol's Shoes","Dunham Bernard G","Sprint",11,0.00,0.00
+"PRX",02/07/2017,6,"Pistol's Shoes","Dunham Bernard G","Claim",20,0.00,0.00
+"PRX",02/07/2017,6,"Rosemarie","Whylie Herold O","2Off45-180",11,0.00,0.00
+"PRX",02/07/2017,6,"Rosemarie","Whylie Herold O","Dirt",139,0.05,1.25
+"PRX",02/07/2017,6,"Rosemarie","Whylie Herold O","Sprint",111,0.05,1.24
+"PRX",02/07/2017,6,"Rosemarie","Whylie Herold O","Claim",80,0.07,1.73
+"PRX",02/07/2017,6,"Sandy Lane Sunset","Pessanha Ney","1stW/Trn",7,0.00,0.00
+"PRX",02/07/2017,6,"Sandy Lane Sunset","Pessanha Ney","Dirt",85,0.01,0.54
+"PRX",02/07/2017,6,"Sandy Lane Sunset","Pessanha Ney","Sprint",61,0.00,0.00
+"PRX",02/07/2017,6,"Sandy Lane Sunset","Pessanha Ney","Claim",51,0.02,0.90
+"PRX",02/07/2017,6,"Secret Temple","Houghton Roy D","Route/Sprint",4,0.00,0.00
+"PRX",02/07/2017,6,"Secret Temple","Houghton Roy D","Dirt",34,0.03,0.29
+"PRX",02/07/2017,6,"Secret Temple","Houghton Roy D","Sprint",37,0.03,0.27
+"PRX",02/07/2017,6,"Secret Temple","Houghton Roy D","Claim",25,0.00,0.00
+"PRX",02/07/2017,7,"Bubba's Will","Aristone Philip T","Mdn2ndStart",11,0.09,0.53
+"PRX",02/07/2017,7,"Bubba's Will","Aristone Philip T","WonLastStart",23,0.00,0.00
+"PRX",02/07/2017,7,"Bubba's Will","Aristone Philip T","Dirt",295,0.09,1.28
+"PRX",02/07/2017,7,"Bubba's Will","Aristone Philip T","Sprint",206,0.10,1.57
+"PRX",02/07/2017,7,"Can'tmakethisup","Contessa Gary C","1stW/Trn",55,0.09,1.79
+"PRX",02/07/2017,7,"Can'tmakethisup","Contessa Gary C","Dirt",362,0.13,1.88
+"PRX",02/07/2017,7,"Can'tmakethisup","Contessa Gary C","Sprint",304,0.10,1.31
+"PRX",02/07/2017,7,"Gaetano","Preciado Guadalupe","Route/Sprint",16,0.19,4.70
+"PRX",02/07/2017,7,"Gaetano","Preciado Guadalupe","Dirt",159,0.15,1.85
+"PRX",02/07/2017,7,"Gaetano","Preciado Guadalupe","Sprint",145,0.16,1.77
+"PRX",02/07/2017,7,"Honorable Service","Sacco Gregory D","Route/Sprint",24,0.08,0.63
+"PRX",02/07/2017,7,"Honorable Service","Sacco Gregory D","31-60Days",50,0.22,1.95
+"PRX",02/07/2017,7,"Honorable Service","Sacco Gregory D","Dirt",253,0.15,1.34
+"PRX",02/07/2017,7,"Honorable Service","Sacco Gregory D","Sprint",189,0.15,1.44
+"PRX",02/07/2017,7,"Liar's Dice","Dilodovico Damon R","1stClaim",5,0.00,0.00
+"PRX",02/07/2017,7,"Liar's Dice","Dilodovico Damon R","61-180Days",14,0.07,1.50
+"PRX",02/07/2017,7,"Liar's Dice","Dilodovico Damon R","Dirt",117,0.10,1.63
+"PRX",02/07/2017,7,"Liar's Dice","Dilodovico Damon R","Sprint",105,0.10,1.61
+"PRX",02/07/2017,7,"Lon's True Passion","Curry Dee","1stW/Trn",10,0.20,2.28
+"PRX",02/07/2017,7,"Lon's True Passion","Curry Dee","31-60Days",31,0.03,0.30
+"PRX",02/07/2017,7,"Lon's True Passion","Curry Dee","Dirt",116,0.07,1.42
+"PRX",02/07/2017,7,"Lon's True Passion","Curry Dee","Sprint",81,0.06,1.74
+"PRX",02/07/2017,7,"Printer","Serey Mario Jr","Route/Sprint",45,0.16,3.60
+"PRX",02/07/2017,7,"Printer","Serey Mario Jr","WonLastStart",101,0.17,2.01
+"PRX",02/07/2017,7,"Printer","Serey Mario Jr","Dirt",580,0.17,2.14
+"PRX",02/07/2017,7,"Printer","Serey Mario Jr","Sprint",396,0.19,2.54
+"PRX",02/07/2017,7,"Worth His Salt","Ness Jamie","Route/Sprint",48,0.21,1.38
+"PRX",02/07/2017,7,"Worth His Salt","Ness Jamie","Dirt",616,0.22,1.51
+"PRX",02/07/2017,7,"Worth His Salt","Ness Jamie","Sprint",440,0.22,1.58
+"PRX",02/07/2017,8,"Collin's Smile","Farro Patricia","Route/Sprint",55,0.09,0.93
+"PRX",02/07/2017,8,"Collin's Smile","Farro Patricia","Dirt",951,0.15,1.56
+"PRX",02/07/2017,8,"Collin's Smile","Farro Patricia","Sprint",599,0.15,1.55
+"PRX",02/07/2017,8,"Collin's Smile","Farro Patricia","Claim",793,0.15,1.52
+"PRX",02/07/2017,8,"Doddsprivatelabel","Zulueta Marcos","31-60Days",94,0.27,2.03
+"PRX",02/07/2017,8,"Doddsprivatelabel","Zulueta Marcos","Dirt",328,0.28,2.03
+"PRX",02/07/2017,8,"Doddsprivatelabel","Zulueta Marcos","Sprint",189,0.26,1.83
+"PRX",02/07/2017,8,"Doddsprivatelabel","Zulueta Marcos","Claim",197,0.27,1.70
+"PRX",02/07/2017,8,"Double the Cheers","Lima Rolando J","Dirt",65,0.09,2.90
+"PRX",02/07/2017,8,"Double the Cheers","Lima Rolando J","Sprint",55,0.07,1.31
+"PRX",02/07/2017,8,"Double the Cheers","Lima Rolando J","Claim",34,0.09,2.31
+"PRX",02/07/2017,8,"Final Forum","Pino Michael V","31-60Days",118,0.14,1.11
+"PRX",02/07/2017,8,"Final Forum","Pino Michael V","WonLastStart",66,0.15,1.04
+"PRX",02/07/2017,8,"Final Forum","Pino Michael V","Dirt",295,0.17,1.42
+"PRX",02/07/2017,8,"Final Forum","Pino Michael V","Sprint",211,0.18,1.68
+"PRX",02/07/2017,8,"Final Forum","Pino Michael V","Claim",204,0.18,1.25
+"PRX",02/07/2017,8,"I Love You Honey","Carvajal Luis Jr","Route/Sprint",6,0.17,6.97
+"PRX",02/07/2017,8,"I Love You Honey","Carvajal Luis Jr","31-60Days",11,0.09,0.31
+"PRX",02/07/2017,8,"I Love You Honey","Carvajal Luis Jr","Dirt",51,0.24,4.20
+"PRX",02/07/2017,8,"I Love You Honey","Carvajal Luis Jr","Sprint",35,0.23,4.09
+"PRX",02/07/2017,8,"I Love You Honey","Carvajal Luis Jr","Claim",27,0.15,3.27
+"PRX",02/07/2017,8,"Native Hawk","Rodriguez Rudy R","1stW/Trn",135,0.31,2.50
+"PRX",02/07/2017,8,"Native Hawk","Rodriguez Rudy R","Route/Sprint",58,0.21,1.40
+"PRX",02/07/2017,8,"Native Hawk","Rodriguez Rudy R","31-60Days",396,0.21,1.58
+"PRX",02/07/2017,8,"Native Hawk","Rodriguez Rudy R","Dirt",669,0.23,1.66
+"PRX",02/07/2017,8,"Native Hawk","Rodriguez Rudy R","Sprint",440,0.21,1.86
+"PRX",02/07/2017,8,"Native Hawk","Rodriguez Rudy R","Claim",285,0.24,1.79
+"PRX",02/07/2017,8,"Simmstown","Tracy Ray E Jr","1stClaim",14,0.00,0.00
+"PRX",02/07/2017,8,"Simmstown","Tracy Ray E Jr","Dirt",324,0.08,0.83
+"PRX",02/07/2017,8,"Simmstown","Tracy Ray E Jr","Sprint",251,0.10,1.02
+"PRX",02/07/2017,8,"Simmstown","Tracy Ray E Jr","Claim",231,0.07,1.04
+"PRX",02/07/2017,8,"Stand and Salute","Vega Richard","1stClaim",12,0.00,0.00
+"PRX",02/07/2017,8,"Stand and Salute","Vega Richard","31-60Days",55,0.15,1.09
+"PRX",02/07/2017,8,"Stand and Salute","Vega Richard","Dirt",190,0.12,1.13
+"PRX",02/07/2017,8,"Stand and Salute","Vega Richard","Sprint",106,0.13,1.40
+"PRX",02/07/2017,8,"Stand and Salute","Vega Richard","Claim",124,0.15,1.61
+"PRX",02/07/2017,8,"Strongbaksteeltoes","Serey Mario Jr","1stClaim",62,0.23,3.17
+"PRX",02/07/2017,8,"Strongbaksteeltoes","Serey Mario Jr","Dirt",580,0.17,2.14
+"PRX",02/07/2017,8,"Strongbaksteeltoes","Serey Mario Jr","Sprint",396,0.19,2.54
+"PRX",02/07/2017,8,"Strongbaksteeltoes","Serey Mario Jr","Claim",363,0.19,2.18
+"PRX",02/07/2017,8,"Surfing U S A","Nicholson James E Jr","Dirt",125,0.03,0.30
+"PRX",02/07/2017,8,"Surfing U S A","Nicholson James E Jr","Sprint",83,0.05,0.46
+"PRX",02/07/2017,8,"Surfing U S A","Nicholson James E Jr","Claim",92,0.03,0.29
+"PRX",02/07/2017,9,"Appealing Miss","Lake Scott A","Dirt",659,0.17,2.01
+"PRX",02/07/2017,9,"Appealing Miss","Lake Scott A","Sprint",487,0.16,2.11
+"PRX",02/07/2017,9,"Appealing Miss","Lake Scott A","Claim",517,0.16,1.90
+"PRX",02/07/2017,9,"Arch Princess","Vera Miguel","Dirt",93,0.24,2.13
+"PRX",02/07/2017,9,"Arch Princess","Vera Miguel","Sprint",69,0.22,1.83
+"PRX",02/07/2017,9,"Arch Princess","Vera Miguel","Claim",63,0.29,2.66
+"PRX",02/07/2017,9,"Don't Ask Me Why","Guerrero J Guadalupe","Dirt",178,0.08,1.25
+"PRX",02/07/2017,9,"Don't Ask Me Why","Guerrero J Guadalupe","Sprint",109,0.11,1.27
+"PRX",02/07/2017,9,"Don't Ask Me Why","Guerrero J Guadalupe","Claim",115,0.06,0.89
+"PRX",02/07/2017,9,"For Later","Ryerson James T","Dirt",190,0.07,1.16
+"PRX",02/07/2017,9,"For Later","Ryerson James T","Sprint",165,0.07,1.19
+"PRX",02/07/2017,9,"For Later","Ryerson James T","Claim",56,0.09,0.95
+"PRX",02/07/2017,9,"Grace H.","Rodriguez John M","31-60Days",23,0.17,2.08
+"PRX",02/07/2017,9,"Grace H.","Rodriguez John M","Dirt",108,0.06,1.45
+"PRX",02/07/2017,9,"Grace H.","Rodriguez John M","Sprint",78,0.09,2.01
+"PRX",02/07/2017,9,"Grace H.","Rodriguez John M","Claim",82,0.07,1.81
+"PRX",02/07/2017,9,"Henrietta Dubai","Wilson Brenda","Dirt",31,0.03,0.22
+"PRX",02/07/2017,9,"Henrietta Dubai","Wilson Brenda","Sprint",19,0.05,0.36
+"PRX",02/07/2017,9,"Henrietta Dubai","Wilson Brenda","Claim",7,0.00,0.00
+"PRX",02/07/2017,9,"Just Listen","Aristone Philip T","31-60Days",64,0.13,1.35
+"PRX",02/07/2017,9,"Just Listen","Aristone Philip T","Dirt",295,0.09,1.28
+"PRX",02/07/2017,9,"Just Listen","Aristone Philip T","Sprint",206,0.10,1.57
+"PRX",02/07/2017,9,"Just Listen","Aristone Philip T","Claim",200,0.07,1.00
+"PRX",02/07/2017,9,"Kwik E","Milian Carlos J","WonLastStart",8,0.13,3.27
+"PRX",02/07/2017,9,"Kwik E","Milian Carlos J","Dirt",64,0.11,2.73
+"PRX",02/07/2017,9,"Kwik E","Milian Carlos J","Sprint",55,0.11,3.03
+"PRX",02/07/2017,9,"Kwik E","Milian Carlos J","Claim",42,0.10,2.60
+"PRX",02/07/2017,9,"Mad Mango","Serey Mario Jr","Route/Sprint",45,0.16,3.60
+"PRX",02/07/2017,9,"Mad Mango","Serey Mario Jr","Dirt",580,0.17,2.14
+"PRX",02/07/2017,9,"Mad Mango","Serey Mario Jr","Sprint",396,0.19,2.54
+"PRX",02/07/2017,9,"Mad Mango","Serey Mario Jr","Claim",363,0.19,2.18
+"PRX",02/07/2017,9,"Socket to Me","Whylie Herold O","+180Days",2,0.00,0.00
+"PRX",02/07/2017,9,"Socket to Me","Whylie Herold O","Dirt",139,0.05,1.25
+"PRX",02/07/2017,9,"Socket to Me","Whylie Herold O","Sprint",111,0.05,1.24
+"PRX",02/07/2017,9,"Socket to Me","Whylie Herold O","Claim",80,0.07,1.73
+"PRX",02/07/2017,9,"Steph Got Even","Velazquez Daniel","61-180Days",6,0.00,0.00
+"PRX",02/07/2017,9,"Steph Got Even","Velazquez Daniel","BlinkOn",2,0.50,1.80
+"PRX",02/07/2017,9,"Steph Got Even","Velazquez Daniel","Route/Sprint",13,0.08,0.46
+"PRX",02/07/2017,9,"Steph Got Even","Velazquez Daniel","Dirt",90,0.13,1.83
+"PRX",02/07/2017,9,"Steph Got Even","Velazquez Daniel","Sprint",45,0.13,1.29
+"PRX",02/07/2017,9,"Steph Got Even","Velazquez Daniel","Claim",65,0.14,2.06
+"PRX",02/07/2017,9,"Turning the Table","Wyner Harold","31-60Days",33,0.12,0.84
+"PRX",02/07/2017,9,"Turning the Table","Wyner Harold","Dirt",192,0.14,1.74
+"PRX",02/07/2017,9,"Turning the Table","Wyner Harold","Sprint",137,0.09,1.45
+"PRX",02/07/2017,9,"Turning the Table","Wyner Harold","Claim",115,0.11,1.29

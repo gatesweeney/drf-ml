@@ -1,0 +1,292 @@
+"MVR",02/07/2017,1,"Avenueofprayer","Yoder Lori","2Off45-180",2,0.00,0.00
+"MVR",02/07/2017,1,"Avenueofprayer","Yoder Lori","Dirt",29,0.00,0.00
+"MVR",02/07/2017,1,"Avenueofprayer","Yoder Lori","Sprint",23,0.00,0.00
+"MVR",02/07/2017,1,"Avenueofprayer","Yoder Lori","MdnSpWt",4,0.00,0.00
+"MVR",02/07/2017,1,"Baby Bling","Hamm Timothy","Dirt",427,0.16,1.55
+"MVR",02/07/2017,1,"Baby Bling","Hamm Timothy","Sprint",303,0.13,1.31
+"MVR",02/07/2017,1,"Baby Bling","Hamm Timothy","MdnSpWt",138,0.14,1.19
+"MVR",02/07/2017,1,"Buckeye Brown","Maddox Rachael","61-180Days",14,0.00,0.00
+"MVR",02/07/2017,1,"Buckeye Brown","Maddox Rachael","Dirt",109,0.02,0.23
+"MVR",02/07/2017,1,"Buckeye Brown","Maddox Rachael","Sprint",78,0.01,0.11
+"MVR",02/07/2017,1,"Buckeye Brown","Maddox Rachael","MdnSpWt",34,0.00,0.00
+"MVR",02/07/2017,1,"Classic Twist","Faulkner Rodney C","1stW/Trn",31,0.03,0.35
+"MVR",02/07/2017,1,"Classic Twist","Faulkner Rodney C","Dirt",476,0.06,1.03
+"MVR",02/07/2017,1,"Classic Twist","Faulkner Rodney C","Sprint",308,0.05,0.71
+"MVR",02/07/2017,1,"Classic Twist","Faulkner Rodney C","MdnSpWt",29,0.00,0.00
+"MVR",02/07/2017,1,"Jullien","Brown Glenroy","2OffOver180",3,0.00,0.00
+"MVR",02/07/2017,1,"Jullien","Brown Glenroy","Dirt",231,0.09,1.40
+"MVR",02/07/2017,1,"Jullien","Brown Glenroy","Sprint",166,0.09,1.42
+"MVR",02/07/2017,1,"Jullien","Brown Glenroy","MdnSpWt",28,0.04,0.42
+"MVR",02/07/2017,1,"Marco's Abyss","Maddox Rachael","2OffOver180",6,0.00,0.00
+"MVR",02/07/2017,1,"Marco's Abyss","Maddox Rachael","BlinkOff",1,0.00,0.00
+"MVR",02/07/2017,1,"Marco's Abyss","Maddox Rachael","31-60Days",12,0.00,0.00
+"MVR",02/07/2017,1,"Marco's Abyss","Maddox Rachael","Dirt",109,0.02,0.23
+"MVR",02/07/2017,1,"Marco's Abyss","Maddox Rachael","Sprint",78,0.01,0.11
+"MVR",02/07/2017,1,"Marco's Abyss","Maddox Rachael","MdnSpWt",34,0.00,0.00
+"MVR",02/07/2017,1,"Mr Piranha","Summerville Kenneth R","Dirt",7,0.00,0.00
+"MVR",02/07/2017,1,"Mr Piranha","Summerville Kenneth R","Sprint",3,0.00,0.00
+"MVR",02/07/2017,1,"Mr Piranha","Summerville Kenneth R","MdnSpWt",3,0.00,0.00
+"MVR",02/07/2017,1,"O. P. Magna Fi'd","Huffman Candace M","31-60Days",9,0.22,1.44
+"MVR",02/07/2017,1,"O. P. Magna Fi'd","Huffman Candace M","Dirt",56,0.09,0.60
+"MVR",02/07/2017,1,"O. P. Magna Fi'd","Huffman Candace M","Sprint",47,0.09,0.59
+"MVR",02/07/2017,1,"O. P. Magna Fi'd","Huffman Candace M","MdnSpWt",3,0.00,0.00
+"MVR",02/07/2017,1,"Typothetae","Hamm Timothy","2OffOver180",18,0.06,0.21
+"MVR",02/07/2017,1,"Typothetae","Hamm Timothy","Dirt",427,0.16,1.55
+"MVR",02/07/2017,1,"Typothetae","Hamm Timothy","Sprint",303,0.13,1.31
+"MVR",02/07/2017,1,"Typothetae","Hamm Timothy","MdnSpWt",138,0.14,1.19
+"MVR",02/07/2017,2,"Abatare","Fairman Shawn","2Off45-180",7,0.00,0.00
+"MVR",02/07/2017,2,"Abatare","Fairman Shawn","Dirt",74,0.11,0.58
+"MVR",02/07/2017,2,"Abatare","Fairman Shawn","Sprint",65,0.11,0.65
+"MVR",02/07/2017,2,"Abatare","Fairman Shawn","Alw",7,0.29,0.53
+"MVR",02/07/2017,2,"Blazing Bling","Hamm Timothy","61-180Days",26,0.12,1.72
+"MVR",02/07/2017,2,"Blazing Bling","Hamm Timothy","Dirt",427,0.16,1.55
+"MVR",02/07/2017,2,"Blazing Bling","Hamm Timothy","Sprint",303,0.13,1.31
+"MVR",02/07/2017,2,"Blazing Bling","Hamm Timothy","Alw",105,0.21,2.09
+"MVR",02/07/2017,2,"Great Start","Bernardini Jay P","31-60Days",99,0.19,1.72
+"MVR",02/07/2017,2,"Great Start","Bernardini Jay P","Dirt",347,0.19,1.79
+"MVR",02/07/2017,2,"Great Start","Bernardini Jay P","Sprint",307,0.21,2.47
+"MVR",02/07/2017,2,"Great Start","Bernardini Jay P","Alw",48,0.23,3.36
+"MVR",02/07/2017,2,"Helluva Notion","Gorham Robert M","2Off45-180",77,0.16,1.01
+"MVR",02/07/2017,2,"Helluva Notion","Gorham Robert M","WonLastStart",93,0.18,1.18
+"MVR",02/07/2017,2,"Helluva Notion","Gorham Robert M","Dirt",693,0.14,1.22
+"MVR",02/07/2017,2,"Helluva Notion","Gorham Robert M","Sprint",537,0.15,1.13
+"MVR",02/07/2017,2,"Helluva Notion","Gorham Robert M","Alw",189,0.14,1.38
+"MVR",02/07/2017,2,"Lake Ponchatrain","Haynes Ernest M","WonLastStart",10,0.20,0.70
+"MVR",02/07/2017,2,"Lake Ponchatrain","Haynes Ernest M","Dirt",50,0.20,1.06
+"MVR",02/07/2017,2,"Lake Ponchatrain","Haynes Ernest M","Sprint",41,0.20,1.11
+"MVR",02/07/2017,2,"Lake Ponchatrain","Haynes Ernest M","Alw",9,0.11,0.91
+"MVR",02/07/2017,2,"Tia Flor","Castaneda Marco","+180Days",3,0.00,0.00
+"MVR",02/07/2017,2,"Tia Flor","Castaneda Marco","Dirt",140,0.14,1.43
+"MVR",02/07/2017,2,"Tia Flor","Castaneda Marco","Sprint",103,0.14,1.45
+"MVR",02/07/2017,2,"Tia Flor","Castaneda Marco","Alw",15,0.07,0.39
+"MVR",02/07/2017,3,"Baseballnbourbon","Lucas Ted W","Route/Sprint",4,0.00,0.00
+"MVR",02/07/2017,3,"Baseballnbourbon","Lucas Ted W","Dirt",33,0.12,1.38
+"MVR",02/07/2017,3,"Baseballnbourbon","Lucas Ted W","Sprint",17,0.12,0.80
+"MVR",02/07/2017,3,"Baseballnbourbon","Lucas Ted W","MdnSpWt",13,0.08,0.28
+"MVR",02/07/2017,3,"Brother Z","Gorham Robert M","Dirt",693,0.14,1.22
+"MVR",02/07/2017,3,"Brother Z","Gorham Robert M","Sprint",537,0.15,1.13
+"MVR",02/07/2017,3,"Brother Z","Gorham Robert M","MdnSpWt",178,0.12,1.02
+"MVR",02/07/2017,3,"Deliberate Diamond","Rone Penny","Dirt",57,0.14,2.31
+"MVR",02/07/2017,3,"Deliberate Diamond","Rone Penny","Sprint",56,0.14,2.35
+"MVR",02/07/2017,3,"Deliberate Diamond","Rone Penny","MdnSpWt",16,0.25,3.25
+"MVR",02/07/2017,3,"Honorable Man","Vickers Richard T","1stW/Trn",30,0.07,1.51
+"MVR",02/07/2017,3,"Honorable Man","Vickers Richard T","31-60Days",19,0.05,0.16
+"MVR",02/07/2017,3,"Honorable Man","Vickers Richard T","Dirt",156,0.06,0.82
+"MVR",02/07/2017,3,"Honorable Man","Vickers Richard T","Sprint",116,0.05,0.63
+"MVR",02/07/2017,3,"Honorable Man","Vickers Richard T","MdnSpWt",11,0.00,0.00
+"MVR",02/07/2017,3,"Interference","Shirazi Mort","2Off45-180",2,0.00,0.00
+"MVR",02/07/2017,3,"Interference","Shirazi Mort","31-60Days",1,0.00,0.00
+"MVR",02/07/2017,3,"Interference","Shirazi Mort","Dirt",14,0.21,8.14
+"MVR",02/07/2017,3,"Interference","Shirazi Mort","Sprint",11,0.27,10.36
+"MVR",02/07/2017,3,"Interference","Shirazi Mort","MdnSpWt",4,0.50,26.35
+"MVR",02/07/2017,3,"Mistake","Zielinski Richard","Dirt",329,0.16,2.03
+"MVR",02/07/2017,3,"Mistake","Zielinski Richard","Sprint",210,0.18,1.82
+"MVR",02/07/2017,3,"Mistake","Zielinski Richard","MdnSpWt",33,0.09,0.27
+"MVR",02/07/2017,3,"Quality Spirits","Vazquez Ivan","1stStart",9,0.00,0.00
+"MVR",02/07/2017,3,"Quality Spirits","Vazquez Ivan","Dirt",259,0.05,0.97
+"MVR",02/07/2017,3,"Quality Spirits","Vazquez Ivan","Sprint",143,0.05,1.07
+"MVR",02/07/2017,3,"Quality Spirits","Vazquez Ivan","MdnSpWt",63,0.05,0.83
+"MVR",02/07/2017,3,"Too Much Lute","Spicer James T","Dirt",52,0.12,0.93
+"MVR",02/07/2017,3,"Too Much Lute","Spicer James T","Sprint",22,0.09,0.43
+"MVR",02/07/2017,3,"Too Much Lute","Spicer James T","MdnSpWt",15,0.20,1.30
+"MVR",02/07/2017,3,"Turkey Creek","Baird Bart","1stW/Trn",30,0.30,1.90
+"MVR",02/07/2017,3,"Turkey Creek","Baird Bart","31-60Days",45,0.18,1.52
+"MVR",02/07/2017,3,"Turkey Creek","Baird Bart","Dirt",239,0.20,1.72
+"MVR",02/07/2017,3,"Turkey Creek","Baird Bart","Sprint",234,0.19,1.65
+"MVR",02/07/2017,3,"Turkey Creek","Baird Bart","MdnSpWt",1,0.00,0.00
+"MVR",02/07/2017,3,"Workinonmylayback","Poole Joe M","1stStart",2,0.00,0.00
+"MVR",02/07/2017,3,"Workinonmylayback","Poole Joe M","Dirt",201,0.19,1.30
+"MVR",02/07/2017,3,"Workinonmylayback","Poole Joe M","Sprint",127,0.20,1.19
+"MVR",02/07/2017,3,"Workinonmylayback","Poole Joe M","MdnSpWt",10,0.00,0.00
+"MVR",02/07/2017,4,"Allie's Little Cat","West Aaron M","Sprint/Route",21,0.33,1.90
+"MVR",02/07/2017,4,"Allie's Little Cat","West Aaron M","2Sprints/Rou",6,0.50,2.87
+"MVR",02/07/2017,4,"Allie's Little Cat","West Aaron M","WonLastStart",47,0.28,2.37
+"MVR",02/07/2017,4,"Allie's Little Cat","West Aaron M","Dirt",206,0.25,1.78
+"MVR",02/07/2017,4,"Allie's Little Cat","West Aaron M","Routes",108,0.31,2.14
+"MVR",02/07/2017,4,"Celestial Haze","Brown Glenroy","WonLastStart",22,0.09,0.58
+"MVR",02/07/2017,4,"Celestial Haze","Brown Glenroy","Dirt",231,0.09,1.40
+"MVR",02/07/2017,4,"Celestial Haze","Brown Glenroy","Routes",66,0.09,1.32
+"MVR",02/07/2017,4,"Flaring Star","Kopp Glenn","WonLastStart",39,0.15,0.89
+"MVR",02/07/2017,4,"Flaring Star","Kopp Glenn","Dirt",172,0.22,1.56
+"MVR",02/07/2017,4,"Flaring Star","Kopp Glenn","Routes",62,0.10,0.62
+"MVR",02/07/2017,4,"Hard Headed","Crumley Jevon","WonLastStart",32,0.13,0.80
+"MVR",02/07/2017,4,"Hard Headed","Crumley Jevon","Dirt",174,0.17,2.53
+"MVR",02/07/2017,4,"Hard Headed","Crumley Jevon","Routes",61,0.21,3.55
+"MVR",02/07/2017,4,"Honest Desire","Londono Odin J Jr","1stClaim",3,0.00,0.00
+"MVR",02/07/2017,4,"Honest Desire","Londono Odin J Jr","Sprint/Route",17,0.06,0.45
+"MVR",02/07/2017,4,"Honest Desire","Londono Odin J Jr","Dirt",92,0.10,1.38
+"MVR",02/07/2017,4,"Honest Desire","Londono Odin J Jr","Routes",40,0.05,0.40
+"MVR",02/07/2017,4,"Kimstrong","Evans II Michael","Dirt",110,0.07,0.63
+"MVR",02/07/2017,4,"Kimstrong","Evans II Michael","Routes",63,0.05,1.13
+"MVR",02/07/2017,4,"Lena Love","Dodge Albert","2Off45-180",11,0.00,0.00
+"MVR",02/07/2017,4,"Lena Love","Dodge Albert","Dirt",100,0.07,0.96
+"MVR",02/07/2017,4,"Lena Love","Dodge Albert","Routes",38,0.11,1.19
+"MVR",02/07/2017,4,"She's All That","Sullivan Elliot","WonLastStart",108,0.29,1.29
+"MVR",02/07/2017,4,"She's All That","Sullivan Elliot","Dirt",361,0.25,1.53
+"MVR",02/07/2017,4,"She's All That","Sullivan Elliot","Routes",94,0.21,0.98
+"MVR",02/07/2017,4,"Too Cool","Garcia Amalio P","Dirt",64,0.14,2.83
+"MVR",02/07/2017,4,"Too Cool","Garcia Amalio P","Routes",35,0.17,1.11
+"MVR",02/07/2017,5,"Batalla","Weymes Andrew V","1-7Days",10,0.00,0.00
+"MVR",02/07/2017,5,"Batalla","Weymes Andrew V","Dirt",50,0.04,2.04
+"MVR",02/07/2017,5,"Batalla","Weymes Andrew V","Routes",34,0.03,1.42
+"MVR",02/07/2017,5,"Batalla","Weymes Andrew V","Claim",36,0.06,1.83
+"MVR",02/07/2017,5,"Classy Camelia","Inirio Olivo","WonLastStart",57,0.12,1.03
+"MVR",02/07/2017,5,"Classy Camelia","Inirio Olivo","Dirt",468,0.12,1.36
+"MVR",02/07/2017,5,"Classy Camelia","Inirio Olivo","Routes",233,0.14,1.38
+"MVR",02/07/2017,5,"Classy Camelia","Inirio Olivo","Claim",357,0.14,1.44
+"MVR",02/07/2017,5,"Daydreaming Diva","Sweeting Craig","1stW/Trn",21,0.19,2.84
+"MVR",02/07/2017,5,"Daydreaming Diva","Sweeting Craig","31-60Days",12,0.00,0.00
+"MVR",02/07/2017,5,"Daydreaming Diva","Sweeting Craig","Dirt",86,0.12,1.26
+"MVR",02/07/2017,5,"Daydreaming Diva","Sweeting Craig","Routes",26,0.15,1.62
+"MVR",02/07/2017,5,"Daydreaming Diva","Sweeting Craig","Claim",68,0.10,1.28
+"MVR",02/07/2017,5,"Full of Courage","Silva Fernando","1-7Days",3,0.00,0.00
+"MVR",02/07/2017,5,"Full of Courage","Silva Fernando","Sprint/Route",6,0.00,0.00
+"MVR",02/07/2017,5,"Full of Courage","Silva Fernando","Dirt",58,0.02,0.57
+"MVR",02/07/2017,5,"Full of Courage","Silva Fernando","Routes",15,0.00,0.00
+"MVR",02/07/2017,5,"Full of Courage","Silva Fernando","Claim",51,0.02,0.65
+"MVR",02/07/2017,5,"Hunthay","Spiess Shane M","Dirt",578,0.11,1.51
+"MVR",02/07/2017,5,"Hunthay","Spiess Shane M","Routes",75,0.09,1.02
+"MVR",02/07/2017,5,"Hunthay","Spiess Shane M","Claim",473,0.10,1.21
+"MVR",02/07/2017,5,"Laurie's Vision","Carrillo- Dominguez G","Sprint/Route",1,0.00,0.00
+"MVR",02/07/2017,5,"Laurie's Vision","Carrillo- Dominguez G","Dirt",21,0.05,0.26
+"MVR",02/07/2017,5,"Laurie's Vision","Carrillo- Dominguez G","Routes",4,0.00,0.00
+"MVR",02/07/2017,5,"Laurie's Vision","Carrillo- Dominguez G","Claim",16,0.00,0.00
+"MVR",02/07/2017,5,"No Dough","Sullivan Elliot","Sprint/Route",31,0.19,1.06
+"MVR",02/07/2017,5,"No Dough","Sullivan Elliot","Dirt",361,0.25,1.53
+"MVR",02/07/2017,5,"No Dough","Sullivan Elliot","Routes",94,0.21,0.98
+"MVR",02/07/2017,5,"No Dough","Sullivan Elliot","Claim",330,0.25,1.49
+"MVR",02/07/2017,5,"Prinzip","Grace Michael","Dirt",90,0.10,4.64
+"MVR",02/07/2017,5,"Prinzip","Grace Michael","Routes",58,0.12,5.11
+"MVR",02/07/2017,5,"Prinzip","Grace Michael","Claim",59,0.07,4.08
+"MVR",02/07/2017,5,"Sachi","Vazquez Ivan","BlinkOff",8,0.25,5.29
+"MVR",02/07/2017,5,"Sachi","Vazquez Ivan","Dirt",259,0.05,0.97
+"MVR",02/07/2017,5,"Sachi","Vazquez Ivan","Routes",138,0.07,0.90
+"MVR",02/07/2017,5,"Sachi","Vazquez Ivan","Claim",74,0.07,0.54
+"MVR",02/07/2017,5,"Spicy Legs","Henry Ortis N","2Off45-180",5,0.00,0.00
+"MVR",02/07/2017,5,"Spicy Legs","Henry Ortis N","Dirt",84,0.05,1.60
+"MVR",02/07/2017,5,"Spicy Legs","Henry Ortis N","Routes",49,0.06,1.72
+"MVR",02/07/2017,5,"Spicy Legs","Henry Ortis N","Claim",54,0.04,1.69
+"MVR",02/07/2017,6,"Bladerunner","Radosevich Jeffrey A","Route/Sprint",82,0.32,2.35
+"MVR",02/07/2017,6,"Bladerunner","Radosevich Jeffrey A","Dirt",885,0.21,1.75
+"MVR",02/07/2017,6,"Bladerunner","Radosevich Jeffrey A","Sprint",617,0.20,1.75
+"MVR",02/07/2017,6,"Dancing Rico","Bailey Ricardo","Dirt",45,0.02,0.57
+"MVR",02/07/2017,6,"Dancing Rico","Bailey Ricardo","Sprint",40,0.03,0.65
+"MVR",02/07/2017,6,"Eltanin","Flores Christi","61-180Days",9,0.00,0.00
+"MVR",02/07/2017,6,"Eltanin","Flores Christi","Dirt",67,0.12,2.88
+"MVR",02/07/2017,6,"Eltanin","Flores Christi","Sprint",67,0.12,2.88
+"MVR",02/07/2017,6,"Masquerade Party","Vickers Richard T","Dirt",156,0.06,0.82
+"MVR",02/07/2017,6,"Masquerade Party","Vickers Richard T","Sprint",116,0.05,0.63
+"MVR",02/07/2017,6,"Mr. Honey Badger","Gentner Dorothy","WonLastStart",9,0.22,1.62
+"MVR",02/07/2017,6,"Mr. Honey Badger","Gentner Dorothy","Dirt",50,0.18,2.52
+"MVR",02/07/2017,6,"Mr. Honey Badger","Gentner Dorothy","Sprint",41,0.20,2.58
+"MVR",02/07/2017,6,"Mr. Watanabe Too","Bernardini Jay P","Dirt",347,0.19,1.79
+"MVR",02/07/2017,6,"Mr. Watanabe Too","Bernardini Jay P","Sprint",307,0.21,2.47
+"MVR",02/07/2017,6,"Nikispring","Moyers Rodney D","1stClaim",39,0.05,0.36
+"MVR",02/07/2017,6,"Nikispring","Moyers Rodney D","Dirt",454,0.04,1.04
+"MVR",02/07/2017,6,"Nikispring","Moyers Rodney D","Sprint",421,0.04,0.99
+"MVR",02/07/2017,6,"Pretension","Davidovich Jamen","Dirt",71,0.24,1.64
+"MVR",02/07/2017,6,"Pretension","Davidovich Jamen","Sprint",42,0.38,2.74
+"MVR",02/07/2017,6,"Ravin About Richie","Zielinski Richard","2Off45-180",30,0.17,3.27
+"MVR",02/07/2017,6,"Ravin About Richie","Zielinski Richard","31-60Days",41,0.32,4.29
+"MVR",02/07/2017,6,"Ravin About Richie","Zielinski Richard","WonLastStart",52,0.23,3.43
+"MVR",02/07/2017,6,"Ravin About Richie","Zielinski Richard","Dirt",329,0.16,2.03
+"MVR",02/07/2017,6,"Ravin About Richie","Zielinski Richard","Sprint",210,0.18,1.82
+"MVR",02/07/2017,6,"Richard's Tune","Vega Sergio","31-60Days",18,0.11,2.12
+"MVR",02/07/2017,6,"Richard's Tune","Vega Sergio","Dirt",51,0.25,3.96
+"MVR",02/07/2017,6,"Richard's Tune","Vega Sergio","Sprint",35,0.26,4.47
+"MVR",02/07/2017,6,"The Boot Wildcat","Martin Jeffery L","61-180Days",1,0.00,0.00
+"MVR",02/07/2017,6,"The Boot Wildcat","Martin Jeffery L","Turf/Dirt",1,0.00,0.00
+"MVR",02/07/2017,6,"The Boot Wildcat","Martin Jeffery L","Dirt",13,0.15,1.42
+"MVR",02/07/2017,6,"The Boot Wildcat","Martin Jeffery L","Sprint",14,0.14,1.31
+"MVR",02/07/2017,6,"Where's Woody","Kopp Glenn","31-60Days",33,0.21,1.50
+"MVR",02/07/2017,6,"Where's Woody","Kopp Glenn","Dirt",172,0.22,1.56
+"MVR",02/07/2017,6,"Where's Woody","Kopp Glenn","Sprint",115,0.27,2.00
+"MVR",02/07/2017,7,"Alexis Road","Brown Glenroy","Dirt",231,0.09,1.40
+"MVR",02/07/2017,7,"Alexis Road","Brown Glenroy","Sprint",166,0.09,1.42
+"MVR",02/07/2017,7,"Alexis Road","Brown Glenroy","Claim",85,0.12,1.22
+"MVR",02/07/2017,7,"Arequipa","Bates C L","31-60Days",28,0.00,0.00
+"MVR",02/07/2017,7,"Arequipa","Bates C L","Dirt",76,0.07,1.17
+"MVR",02/07/2017,7,"Arequipa","Bates C L","Sprint",48,0.04,1.40
+"MVR",02/07/2017,7,"Arequipa","Bates C L","Claim",65,0.08,1.37
+"MVR",02/07/2017,7,"Catafire","Spiess Shane M","31-60Days",105,0.06,0.63
+"MVR",02/07/2017,7,"Catafire","Spiess Shane M","Dirt",578,0.11,1.51
+"MVR",02/07/2017,7,"Catafire","Spiess Shane M","Sprint",503,0.11,1.58
+"MVR",02/07/2017,7,"Catafire","Spiess Shane M","Claim",473,0.10,1.21
+"MVR",02/07/2017,7,"Flashy Zee","Bird Danny","Dirt",129,0.08,2.19
+"MVR",02/07/2017,7,"Flashy Zee","Bird Danny","Sprint",77,0.08,2.83
+"MVR",02/07/2017,7,"Flashy Zee","Bird Danny","Claim",116,0.08,2.35
+"MVR",02/07/2017,7,"Franky and Jane","Clouston Edward","31-60Days",73,0.27,1.55
+"MVR",02/07/2017,7,"Franky and Jane","Clouston Edward","WonLastStart",108,0.30,1.36
+"MVR",02/07/2017,7,"Franky and Jane","Clouston Edward","Dirt",481,0.24,1.22
+"MVR",02/07/2017,7,"Franky and Jane","Clouston Edward","Sprint",345,0.26,1.31
+"MVR",02/07/2017,7,"Franky and Jane","Clouston Edward","Claim",457,0.23,1.23
+"MVR",02/07/2017,7,"Lady of Rivendell","Moyers Rodney D","Route/Sprint",38,0.00,0.00
+"MVR",02/07/2017,7,"Lady of Rivendell","Moyers Rodney D","Dirt",454,0.04,1.04
+"MVR",02/07/2017,7,"Lady of Rivendell","Moyers Rodney D","Sprint",421,0.04,0.99
+"MVR",02/07/2017,7,"Lady of Rivendell","Moyers Rodney D","Claim",387,0.04,0.91
+"MVR",02/07/2017,7,"Little Miss Morgan","Spiess Shane M","Dirt",578,0.11,1.51
+"MVR",02/07/2017,7,"Little Miss Morgan","Spiess Shane M","Sprint",503,0.11,1.58
+"MVR",02/07/2017,7,"Little Miss Morgan","Spiess Shane M","Claim",473,0.10,1.21
+"MVR",02/07/2017,7,"Lola Getz","Meyers Shane","Dirt",285,0.19,1.40
+"MVR",02/07/2017,7,"Lola Getz","Meyers Shane","Sprint",162,0.21,1.57
+"MVR",02/07/2017,7,"Lola Getz","Meyers Shane","Claim",188,0.21,1.54
+"MVR",02/07/2017,7,"Peace and Serenity","Welsh Gary R","2Off45-180",17,0.12,2.16
+"MVR",02/07/2017,7,"Peace and Serenity","Welsh Gary R","Dirt",153,0.20,1.87
+"MVR",02/07/2017,7,"Peace and Serenity","Welsh Gary R","Sprint",125,0.23,2.21
+"MVR",02/07/2017,7,"Peace and Serenity","Welsh Gary R","Claim",142,0.18,1.77
+"MVR",02/07/2017,7,"Precious Beth","Baird Bart","WonLastStart",47,0.26,2.92
+"MVR",02/07/2017,7,"Precious Beth","Baird Bart","Dirt",239,0.20,1.72
+"MVR",02/07/2017,7,"Precious Beth","Baird Bart","Sprint",234,0.19,1.65
+"MVR",02/07/2017,7,"Precious Beth","Baird Bart","Claim",217,0.19,1.80
+"MVR",02/07/2017,7,"Prothoe","Weymes Andrew V","Dirt",50,0.04,2.04
+"MVR",02/07/2017,7,"Prothoe","Weymes Andrew V","Sprint",21,0.10,3.13
+"MVR",02/07/2017,7,"Prothoe","Weymes Andrew V","Claim",36,0.06,1.83
+"MVR",02/07/2017,8,"Bayshore Boy","Meyers Shane","1stW/Trn",33,0.21,1.29
+"MVR",02/07/2017,8,"Bayshore Boy","Meyers Shane","Dirt",285,0.19,1.40
+"MVR",02/07/2017,8,"Bayshore Boy","Meyers Shane","Sprint",162,0.21,1.57
+"MVR",02/07/2017,8,"Bayshore Boy","Meyers Shane","Claim",188,0.21,1.54
+"MVR",02/07/2017,8,"Big Cat's Hat","Spiess Shane M","Dirt",578,0.11,1.51
+"MVR",02/07/2017,8,"Big Cat's Hat","Spiess Shane M","Sprint",503,0.11,1.58
+"MVR",02/07/2017,8,"Big Cat's Hat","Spiess Shane M","Claim",473,0.10,1.21
+"MVR",02/07/2017,8,"Bosphorus Storm","Crumley Jevon","61-180Days",17,0.06,0.44
+"MVR",02/07/2017,8,"Bosphorus Storm","Crumley Jevon","Dirt",174,0.17,2.53
+"MVR",02/07/2017,8,"Bosphorus Storm","Crumley Jevon","Sprint",114,0.15,1.97
+"MVR",02/07/2017,8,"Bosphorus Storm","Crumley Jevon","Claim",110,0.20,2.45
+"MVR",02/07/2017,8,"Brilliantbydesign","Zielinski Richard","1stW/Trn",30,0.27,2.14
+"MVR",02/07/2017,8,"Brilliantbydesign","Zielinski Richard","Dirt",329,0.16,2.03
+"MVR",02/07/2017,8,"Brilliantbydesign","Zielinski Richard","Sprint",210,0.18,1.82
+"MVR",02/07/2017,8,"Brilliantbydesign","Zielinski Richard","Claim",243,0.17,2.12
+"MVR",02/07/2017,8,"El Chakal","Torres Pablo R","Dirt",280,0.08,1.31
+"MVR",02/07/2017,8,"El Chakal","Torres Pablo R","Sprint",184,0.08,1.27
+"MVR",02/07/2017,8,"El Chakal","Torres Pablo R","Claim",212,0.09,1.46
+"MVR",02/07/2017,8,"Gold Production","Vickers Richard T","61-180Days",4,0.25,5.80
+"MVR",02/07/2017,8,"Gold Production","Vickers Richard T","Route/Sprint",13,0.08,1.78
+"MVR",02/07/2017,8,"Gold Production","Vickers Richard T","Dirt",156,0.06,0.82
+"MVR",02/07/2017,8,"Gold Production","Vickers Richard T","Sprint",116,0.05,0.63
+"MVR",02/07/2017,8,"Gold Production","Vickers Richard T","Claim",102,0.05,0.67
+"MVR",02/07/2017,8,"Honeyhasdamunnings","Welsh Gary R","1stW/Trn",22,0.23,1.53
+"MVR",02/07/2017,8,"Honeyhasdamunnings","Welsh Gary R","Route/Sprint",20,0.25,1.51
+"MVR",02/07/2017,8,"Honeyhasdamunnings","Welsh Gary R","Dirt",153,0.20,1.87
+"MVR",02/07/2017,8,"Honeyhasdamunnings","Welsh Gary R","Sprint",125,0.23,2.21
+"MVR",02/07/2017,8,"Honeyhasdamunnings","Welsh Gary R","Claim",142,0.18,1.77
+"MVR",02/07/2017,8,"I'm a Big Hitter","Angelle Brent","Dirt",237,0.16,1.42
+"MVR",02/07/2017,8,"I'm a Big Hitter","Angelle Brent","Sprint",169,0.13,1.42
+"MVR",02/07/2017,8,"I'm a Big Hitter","Angelle Brent","Claim",221,0.16,1.46
+"MVR",02/07/2017,8,"Painted Chief","Inirio Olivo","Dirt",468,0.12,1.36
+"MVR",02/07/2017,8,"Painted Chief","Inirio Olivo","Sprint",235,0.10,1.33
+"MVR",02/07/2017,8,"Painted Chief","Inirio Olivo","Claim",357,0.14,1.44
+"MVR",02/07/2017,8,"Skynamic","Reed Eric R","Dirt",228,0.21,1.35
+"MVR",02/07/2017,8,"Skynamic","Reed Eric R","Sprint",172,0.22,1.48
+"MVR",02/07/2017,8,"Skynamic","Reed Eric R","Claim",93,0.16,1.11
+"MVR",02/07/2017,8,"Total Posse","Radosevich Jeffrey A","Dirt",885,0.21,1.75
+"MVR",02/07/2017,8,"Total Posse","Radosevich Jeffrey A","Sprint",617,0.20,1.75
+"MVR",02/07/2017,8,"Total Posse","Radosevich Jeffrey A","Claim",576,0.19,1.39
+"MVR",02/07/2017,8,"Warren's T. Baze","Radosevich Jeffrey A","61-180Days",43,0.23,2.04
+"MVR",02/07/2017,8,"Warren's T. Baze","Radosevich Jeffrey A","Route/Sprint",82,0.32,2.35
+"MVR",02/07/2017,8,"Warren's T. Baze","Radosevich Jeffrey A","WonLastStart",190,0.25,2.20
+"MVR",02/07/2017,8,"Warren's T. Baze","Radosevich Jeffrey A","Dirt",885,0.21,1.75
+"MVR",02/07/2017,8,"Warren's T. Baze","Radosevich Jeffrey A","Sprint",617,0.20,1.75
+"MVR",02/07/2017,8,"Warren's T. Baze","Radosevich Jeffrey A","Claim",576,0.19,1.39
+"MVR",02/07/2017,8,"Yo Phat","Baird John W","Dirt",191,0.20,1.97
+"MVR",02/07/2017,8,"Yo Phat","Baird John W","Sprint",176,0.19,1.86
+"MVR",02/07/2017,8,"Yo Phat","Baird John W","Claim",136,0.24,2.61

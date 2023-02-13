@@ -1,0 +1,243 @@
+"TUP",02/07/2017,1,"American Miz","Hartman Stan","2Off45-180",9,0.11,0.31
+"TUP",02/07/2017,1,"American Miz","Hartman Stan","Dirt",69,0.12,0.95
+"TUP",02/07/2017,1,"American Miz","Hartman Stan","Sprint",63,0.11,0.75
+"TUP",02/07/2017,1,"American Miz","Hartman Stan","MdnClm",1,0.00,0.00
+"TUP",02/07/2017,1,"Awaken Hope","Silva Jose L","1stW/Trn",23,0.26,1.85
+"TUP",02/07/2017,1,"Awaken Hope","Silva Jose L","61-180Days",11,0.09,0.42
+"TUP",02/07/2017,1,"Awaken Hope","Silva Jose L","Dirt",145,0.17,1.41
+"TUP",02/07/2017,1,"Awaken Hope","Silva Jose L","Sprint",125,0.16,1.10
+"TUP",02/07/2017,1,"Awaken Hope","Silva Jose L","MdnClm",20,0.15,1.70
+"TUP",02/07/2017,1,"Cruzin in Style","Treasure Paul","Mdn2ndStart",5,0.20,0.48
+"TUP",02/07/2017,1,"Cruzin in Style","Treasure Paul","1stLasix",2,0.50,2.40
+"TUP",02/07/2017,1,"Cruzin in Style","Treasure Paul","Dirt",88,0.15,1.03
+"TUP",02/07/2017,1,"Cruzin in Style","Treasure Paul","Sprint",82,0.15,1.19
+"TUP",02/07/2017,1,"Cruzin in Style","Treasure Paul","MdnClm",28,0.32,2.42
+"TUP",02/07/2017,1,"Enchantable Storm","Martens Eurico","Mdn2ndStart",5,0.00,0.00
+"TUP",02/07/2017,1,"Enchantable Storm","Martens Eurico","31-60Days",21,0.00,0.00
+"TUP",02/07/2017,1,"Enchantable Storm","Martens Eurico","Dirt",80,0.15,2.13
+"TUP",02/07/2017,1,"Enchantable Storm","Martens Eurico","Sprint",58,0.12,1.98
+"TUP",02/07/2017,1,"Enchantable Storm","Martens Eurico","MdnClm",26,0.12,0.72
+"TUP",02/07/2017,1,"Light Up Inthe Sky","Torres-Casas Alex J","2Off45-180",5,0.00,0.00
+"TUP",02/07/2017,1,"Light Up Inthe Sky","Torres-Casas Alex J","1stBlink",1,0.00,0.00
+"TUP",02/07/2017,1,"Light Up Inthe Sky","Torres-Casas Alex J","BlinkOn",1,0.00,0.00
+"TUP",02/07/2017,1,"Light Up Inthe Sky","Torres-Casas Alex J","Dirt",30,0.07,3.23
+"TUP",02/07/2017,1,"Light Up Inthe Sky","Torres-Casas Alex J","Sprint",20,0.10,4.85
+"TUP",02/07/2017,1,"Light Up Inthe Sky","Torres-Casas Alex J","MdnClm",16,0.00,0.00
+"TUP",02/07/2017,1,"Ma Smally","Schnell Don","31-60Days",24,0.21,1.10
+"TUP",02/07/2017,1,"Ma Smally","Schnell Don","Dirt",184,0.24,1.71
+"TUP",02/07/2017,1,"Ma Smally","Schnell Don","Sprint",153,0.20,1.53
+"TUP",02/07/2017,1,"Ma Smally","Schnell Don","MdnClm",28,0.29,1.25
+"TUP",02/07/2017,1,"Miss Charly Hustle","Klenakis Tony","31-60Days",17,0.06,1.04
+"TUP",02/07/2017,1,"Miss Charly Hustle","Klenakis Tony","Dirt",81,0.07,0.83
+"TUP",02/07/2017,1,"Miss Charly Hustle","Klenakis Tony","Sprint",75,0.08,0.90
+"TUP",02/07/2017,1,"Miss Charly Hustle","Klenakis Tony","MdnClm",22,0.14,1.60
+"TUP",02/07/2017,2,"Dangerously Swift","Rushton Stetson","WonLastStart",61,0.25,2.47
+"TUP",02/07/2017,2,"Dangerously Swift","Rushton Stetson","Dirt",512,0.10,0.99
+"TUP",02/07/2017,2,"Dangerously Swift","Rushton Stetson","Sprint",429,0.10,0.97
+"TUP",02/07/2017,2,"Dangerously Swift","Rushton Stetson","Claim",292,0.10,1.19
+"TUP",02/07/2017,2,"Hilda","O'Brien Debbie","Route/Sprint",5,0.00,0.00
+"TUP",02/07/2017,2,"Hilda","O'Brien Debbie","Dirt",42,0.19,1.71
+"TUP",02/07/2017,2,"Hilda","O'Brien Debbie","Sprint",36,0.14,1.36
+"TUP",02/07/2017,2,"Hilda","O'Brien Debbie","Claim",36,0.17,1.61
+"TUP",02/07/2017,2,"I'll Wear White","Treasure Paul","31-60Days",19,0.05,0.25
+"TUP",02/07/2017,2,"I'll Wear White","Treasure Paul","Dirt",88,0.15,1.03
+"TUP",02/07/2017,2,"I'll Wear White","Treasure Paul","Sprint",82,0.15,1.19
+"TUP",02/07/2017,2,"I'll Wear White","Treasure Paul","Claim",54,0.11,0.94
+"TUP",02/07/2017,2,"Kaiulani","Calton Janis","Route/Sprint",1,0.00,0.00
+"TUP",02/07/2017,2,"Kaiulani","Calton Janis","Dirt",7,0.00,0.00
+"TUP",02/07/2017,2,"Kaiulani","Calton Janis","Sprint",6,0.00,0.00
+"TUP",02/07/2017,2,"Kaiulani","Calton Janis","Claim",8,0.00,0.00
+"TUP",02/07/2017,2,"Letthegoodtimesrol","Odom Raymond Sr","2Off45-180",3,0.00,0.00
+"TUP",02/07/2017,2,"Letthegoodtimesrol","Odom Raymond Sr","Dirt",28,0.11,1.76
+"TUP",02/07/2017,2,"Letthegoodtimesrol","Odom Raymond Sr","Sprint",29,0.10,1.70
+"TUP",02/07/2017,2,"Letthegoodtimesrol","Odom Raymond Sr","Claim",18,0.11,2.33
+"TUP",02/07/2017,2,"One Simple Rule","Ferguson Chad","Dirt",33,0.09,0.45
+"TUP",02/07/2017,2,"One Simple Rule","Ferguson Chad","Sprint",35,0.09,0.42
+"TUP",02/07/2017,2,"One Simple Rule","Ferguson Chad","Claim",33,0.09,0.45
+"TUP",02/07/2017,2,"Princess Paca","Rushton Kim","WonLastStart",1,0.00,0.00
+"TUP",02/07/2017,2,"Princess Paca","Rushton Kim","Dirt",31,0.06,1.93
+"TUP",02/07/2017,2,"Princess Paca","Rushton Kim","Sprint",24,0.08,2.49
+"TUP",02/07/2017,2,"Princess Paca","Rushton Kim","Claim",27,0.04,0.37
+"TUP",02/07/2017,3,"Land of Oz","Schnell Don","1stW/Trn",16,0.19,0.82
+"TUP",02/07/2017,3,"Land of Oz","Schnell Don","2Off45-180",12,0.17,0.96
+"TUP",02/07/2017,3,"Land of Oz","Schnell Don","31-60Days",24,0.21,1.10
+"TUP",02/07/2017,3,"Land of Oz","Schnell Don","Dirt",184,0.24,1.71
+"TUP",02/07/2017,3,"Land of Oz","Schnell Don","Sprint",153,0.20,1.53
+"TUP",02/07/2017,3,"Land of Oz","Schnell Don","Alw",16,0.19,0.86
+"TUP",02/07/2017,3,"Please Be Me","Metz Jeff","1stClaim",40,0.15,1.10
+"TUP",02/07/2017,3,"Please Be Me","Metz Jeff","Dirt",503,0.14,1.46
+"TUP",02/07/2017,3,"Please Be Me","Metz Jeff","Sprint",407,0.16,1.37
+"TUP",02/07/2017,3,"Please Be Me","Metz Jeff","Alw",26,0.12,1.09
+"TUP",02/07/2017,3,"Risky Venture","Treasure Paul","31-60Days",19,0.05,0.25
+"TUP",02/07/2017,3,"Risky Venture","Treasure Paul","Dirt",88,0.15,1.03
+"TUP",02/07/2017,3,"Risky Venture","Treasure Paul","Sprint",82,0.15,1.19
+"TUP",02/07/2017,3,"Risky Venture","Treasure Paul","Alw",11,0.09,0.87
+"TUP",02/07/2017,3,"Sunset Brandy","Jensen Kent","Dirt",23,0.13,0.78
+"TUP",02/07/2017,3,"Sunset Brandy","Jensen Kent","Sprint",23,0.17,1.64
+"TUP",02/07/2017,3,"Sunset Brandy","Jensen Kent","Alw",8,0.13,2.48
+"TUP",02/07/2017,3,"Two the Punch","Morgan Dan","1stW/Trn",9,0.22,1.18
+"TUP",02/07/2017,3,"Two the Punch","Morgan Dan","2OffOver180",1,0.00,0.00
+"TUP",02/07/2017,3,"Two the Punch","Morgan Dan","31-60Days",7,0.14,1.00
+"TUP",02/07/2017,3,"Two the Punch","Morgan Dan","Dirt",48,0.19,1.66
+"TUP",02/07/2017,3,"Two the Punch","Morgan Dan","Sprint",31,0.26,2.15
+"TUP",02/07/2017,3,"Two the Punch","Morgan Dan","Alw",4,0.50,3.40
+"TUP",02/07/2017,3,"Wannablikegrandpa","Eikleberry Kevin","Dirt",84,0.19,1.30
+"TUP",02/07/2017,3,"Wannablikegrandpa","Eikleberry Kevin","Sprint",82,0.17,1.02
+"TUP",02/07/2017,3,"Wannablikegrandpa","Eikleberry Kevin","Alw",20,0.15,2.23
+"TUP",02/07/2017,3,"Wolf Pond Jack","Houghton Rick","Dirt",17,0.00,0.00
+"TUP",02/07/2017,3,"Wolf Pond Jack","Houghton Rick","Sprint",17,0.00,0.00
+"TUP",02/07/2017,3,"Wolf Pond Jack","Houghton Rick","Alw",9,0.00,0.00
+"TUP",02/07/2017,4,"Down Low Mama","Polito Nancy","Dirt",23,0.00,0.00
+"TUP",02/07/2017,4,"Down Low Mama","Polito Nancy","Sprint",21,0.00,0.00
+"TUP",02/07/2017,4,"Down Low Mama","Polito Nancy","Claim",16,0.00,0.00
+"TUP",02/07/2017,4,"Key Affair","Gutierrez Juan Q","Dirt",136,0.10,1.45
+"TUP",02/07/2017,4,"Key Affair","Gutierrez Juan Q","Sprint",120,0.10,1.12
+"TUP",02/07/2017,4,"Key Affair","Gutierrez Juan Q","Claim",140,0.11,1.40
+"TUP",02/07/2017,4,"Lots of Cash","Figueroa Manny","61-180Days",3,0.00,0.00
+"TUP",02/07/2017,4,"Lots of Cash","Figueroa Manny","Dirt",58,0.02,0.40
+"TUP",02/07/2017,4,"Lots of Cash","Figueroa Manny","Sprint",55,0.02,0.43
+"TUP",02/07/2017,4,"Lots of Cash","Figueroa Manny","Claim",60,0.02,0.39
+"TUP",02/07/2017,4,"R Charmed Affair","Oberholtzer Kevin","Dirt",48,0.02,0.14
+"TUP",02/07/2017,4,"R Charmed Affair","Oberholtzer Kevin","Sprint",48,0.02,0.14
+"TUP",02/07/2017,4,"R Charmed Affair","Oberholtzer Kevin","Claim",43,0.02,0.15
+"TUP",02/07/2017,4,"Right Trick","Dales Robert","31-60Days",1,1.00,5.20
+"TUP",02/07/2017,4,"Right Trick","Dales Robert","Dirt",8,0.25,0.93
+"TUP",02/07/2017,4,"Right Trick","Dales Robert","Sprint",6,0.17,0.37
+"TUP",02/07/2017,4,"Right Trick","Dales Robert","Claim",6,0.17,0.87
+"TUP",02/07/2017,4,"Snap's Back","Salazar Michelle","61-180Days",8,0.00,0.00
+"TUP",02/07/2017,4,"Snap's Back","Salazar Michelle","Turf/Dirt",3,0.00,0.00
+"TUP",02/07/2017,4,"Snap's Back","Salazar Michelle","Dirt",152,0.02,0.36
+"TUP",02/07/2017,4,"Snap's Back","Salazar Michelle","Sprint",135,0.02,0.40
+"TUP",02/07/2017,4,"Snap's Back","Salazar Michelle","Claim",100,0.03,0.54
+"TUP",02/07/2017,4,"Surf Queen","Pickard Jimmie R","Dirt",9,0.00,0.00
+"TUP",02/07/2017,4,"Surf Queen","Pickard Jimmie R","Sprint",9,0.00,0.00
+"TUP",02/07/2017,4,"Surf Queen","Pickard Jimmie R","Claim",9,0.00,0.00
+"TUP",02/07/2017,4,"Trigo Padigo","Perkins Frances","31-60Days",11,0.00,0.00
+"TUP",02/07/2017,4,"Trigo Padigo","Perkins Frances","Dirt",71,0.03,1.70
+"TUP",02/07/2017,4,"Trigo Padigo","Perkins Frances","Sprint",61,0.03,1.98
+"TUP",02/07/2017,4,"Trigo Padigo","Perkins Frances","Claim",72,0.04,1.89
+"TUP",02/07/2017,5,"Bonita Rapids","Frazier F C","1stLasix",4,0.00,0.00
+"TUP",02/07/2017,5,"Bonita Rapids","Frazier F C","Sprint/Route",8,0.13,0.95
+"TUP",02/07/2017,5,"Bonita Rapids","Frazier F C","Dirt",61,0.15,1.24
+"TUP",02/07/2017,5,"Bonita Rapids","Frazier F C","Routes",24,0.17,1.07
+"TUP",02/07/2017,5,"Bonita Rapids","Frazier F C","MdnClm",12,0.08,0.28
+"TUP",02/07/2017,5,"Call Me Never","Baze Robert","2Off45-180",20,0.25,4.23
+"TUP",02/07/2017,5,"Call Me Never","Baze Robert","Sprint/Route",28,0.07,0.56
+"TUP",02/07/2017,5,"Call Me Never","Baze Robert","2Sprints/Rou",4,0.00,0.00
+"TUP",02/07/2017,5,"Call Me Never","Baze Robert","Dirt",316,0.11,1.61
+"TUP",02/07/2017,5,"Call Me Never","Baze Robert","Routes",85,0.07,1.64
+"TUP",02/07/2017,5,"Call Me Never","Baze Robert","MdnClm",61,0.07,0.56
+"TUP",02/07/2017,5,"Crafty Lilly","Oliver Kim A","2Off45-180",5,0.20,5.72
+"TUP",02/07/2017,5,"Crafty Lilly","Oliver Kim A","Sprint/Route",12,0.25,1.50
+"TUP",02/07/2017,5,"Crafty Lilly","Oliver Kim A","2Sprints/Rou",3,0.00,0.00
+"TUP",02/07/2017,5,"Crafty Lilly","Oliver Kim A","Dirt",58,0.17,1.45
+"TUP",02/07/2017,5,"Crafty Lilly","Oliver Kim A","Routes",22,0.14,0.82
+"TUP",02/07/2017,5,"Crafty Lilly","Oliver Kim A","MdnClm",1,0.00,0.00
+"TUP",02/07/2017,5,"Greatizt Lover","Eikleberry Kevin","Dirt",84,0.19,1.30
+"TUP",02/07/2017,5,"Greatizt Lover","Eikleberry Kevin","Routes",42,0.31,3.90
+"TUP",02/07/2017,5,"Greatizt Lover","Eikleberry Kevin","MdnClm",12,0.25,2.07
+"TUP",02/07/2017,5,"Real Rozy","McFarlane Dan L","Sprint/Route",32,0.13,1.01
+"TUP",02/07/2017,5,"Real Rozy","McFarlane Dan L","Dirt",165,0.14,1.02
+"TUP",02/07/2017,5,"Real Rozy","McFarlane Dan L","Routes",114,0.11,0.79
+"TUP",02/07/2017,5,"Real Rozy","McFarlane Dan L","MdnClm",32,0.16,1.25
+"TUP",02/07/2017,5,"Solemnity","Toye Joe","Sprint/Route",42,0.05,0.41
+"TUP",02/07/2017,5,"Solemnity","Toye Joe","2Sprints/Rou",8,0.00,0.00
+"TUP",02/07/2017,5,"Solemnity","Toye Joe","Dirt",238,0.13,1.56
+"TUP",02/07/2017,5,"Solemnity","Toye Joe","Routes",141,0.14,1.90
+"TUP",02/07/2017,5,"Solemnity","Toye Joe","MdnClm",27,0.19,1.50
+"TUP",02/07/2017,5,"Stolen Dream","Torres-Casas Alex J","Sprint/Route",2,0.00,0.00
+"TUP",02/07/2017,5,"Stolen Dream","Torres-Casas Alex J","Dirt",30,0.07,3.23
+"TUP",02/07/2017,5,"Stolen Dream","Torres-Casas Alex J","Routes",11,0.00,0.00
+"TUP",02/07/2017,5,"Stolen Dream","Torres-Casas Alex J","MdnClm",16,0.00,0.00
+"TUP",02/07/2017,5,"Turn On the Steam","Gale Bryce","1stW/Trn",4,0.00,0.00
+"TUP",02/07/2017,5,"Turn On the Steam","Gale Bryce","Sprint/Route",9,0.11,0.49
+"TUP",02/07/2017,5,"Turn On the Steam","Gale Bryce","2Sprints/Rou",3,0.00,0.00
+"TUP",02/07/2017,5,"Turn On the Steam","Gale Bryce","Dirt",59,0.07,0.64
+"TUP",02/07/2017,5,"Turn On the Steam","Gale Bryce","Routes",22,0.09,1.13
+"TUP",02/07/2017,5,"Turn On the Steam","Gale Bryce","MdnClm",13,0.00,0.00
+"TUP",02/07/2017,6,"Caribean Spirit","Rushton Stetson","Dirt",512,0.10,0.99
+"TUP",02/07/2017,6,"Caribean Spirit","Rushton Stetson","Sprint",429,0.10,0.97
+"TUP",02/07/2017,6,"Caribean Spirit","Rushton Stetson","Claim",292,0.10,1.19
+"TUP",02/07/2017,6,"Estancia","Ferguson Chad","Dirt",33,0.09,0.45
+"TUP",02/07/2017,6,"Estancia","Ferguson Chad","Sprint",35,0.09,0.42
+"TUP",02/07/2017,6,"Estancia","Ferguson Chad","Claim",33,0.09,0.45
+"TUP",02/07/2017,6,"Mr. Branching Out","Dennison Dan H","WonLastStart",21,0.10,0.84
+"TUP",02/07/2017,6,"Mr. Branching Out","Dennison Dan H","Dirt",206,0.11,1.21
+"TUP",02/07/2017,6,"Mr. Branching Out","Dennison Dan H","Sprint",181,0.13,1.38
+"TUP",02/07/2017,6,"Mr. Branching Out","Dennison Dan H","Claim",128,0.09,0.73
+"TUP",02/07/2017,6,"Mr. Obeso","Silva Juan Pablo","1stW/Trn",39,0.21,2.64
+"TUP",02/07/2017,6,"Mr. Obeso","Silva Juan Pablo","Dirt",120,0.18,2.38
+"TUP",02/07/2017,6,"Mr. Obeso","Silva Juan Pablo","Sprint",107,0.18,2.24
+"TUP",02/07/2017,6,"Mr. Obeso","Silva Juan Pablo","Claim",80,0.20,2.99
+"TUP",02/07/2017,6,"Nohoneymoon","Marquez Jose L","Dirt",55,0.02,0.07
+"TUP",02/07/2017,6,"Nohoneymoon","Marquez Jose L","Sprint",44,0.02,0.09
+"TUP",02/07/2017,6,"Nohoneymoon","Marquez Jose L","Claim",44,0.02,0.09
+"TUP",02/07/2017,6,"Off the Page","Oberholtzer Kevin","2Off45-180",5,0.00,0.00
+"TUP",02/07/2017,6,"Off the Page","Oberholtzer Kevin","Turf/Dirt",1,0.00,0.00
+"TUP",02/07/2017,6,"Off the Page","Oberholtzer Kevin","Dirt",48,0.02,0.14
+"TUP",02/07/2017,6,"Off the Page","Oberholtzer Kevin","Sprint",48,0.02,0.14
+"TUP",02/07/2017,6,"Off the Page","Oberholtzer Kevin","Claim",43,0.02,0.15
+"TUP",02/07/2017,6,"Storm Wacker","Silva Jose L","Dirt",145,0.17,1.41
+"TUP",02/07/2017,6,"Storm Wacker","Silva Jose L","Sprint",125,0.16,1.10
+"TUP",02/07/2017,6,"Storm Wacker","Silva Jose L","Claim",113,0.19,1.33
+"TUP",02/07/2017,6,"Tiu","Alcoverde Ernesto","+180Days",4,0.75,3.25
+"TUP",02/07/2017,6,"Tiu","Alcoverde Ernesto","Dirt",33,0.21,0.81
+"TUP",02/07/2017,6,"Tiu","Alcoverde Ernesto","Sprint",32,0.22,0.83
+"TUP",02/07/2017,6,"Tiu","Alcoverde Ernesto","Claim",12,0.25,1.08
+"TUP",02/07/2017,7,"Classy Chick","Sepich Edward F Jr","Dirt",35,0.23,1.98
+"TUP",02/07/2017,7,"Classy Chick","Sepich Edward F Jr","Routes",24,0.21,1.93
+"TUP",02/07/2017,7,"Classy Chick","Sepich Edward F Jr","Claim",34,0.18,2.19
+"TUP",02/07/2017,7,"Feel the Charge","Ortiz Manuel","2Off45-180",20,0.30,1.86
+"TUP",02/07/2017,7,"Feel the Charge","Ortiz Manuel","WonLastStart",27,0.26,1.73
+"TUP",02/07/2017,7,"Feel the Charge","Ortiz Manuel","Dirt",123,0.27,2.44
+"TUP",02/07/2017,7,"Feel the Charge","Ortiz Manuel","Routes",93,0.26,2.73
+"TUP",02/07/2017,7,"Feel the Charge","Ortiz Manuel","Claim",117,0.25,2.31
+"TUP",02/07/2017,7,"Great Selection","Gale Bryce","Dirt",59,0.07,0.64
+"TUP",02/07/2017,7,"Great Selection","Gale Bryce","Routes",22,0.09,1.13
+"TUP",02/07/2017,7,"Great Selection","Gale Bryce","Claim",42,0.10,0.90
+"TUP",02/07/2017,7,"Hotsouthernbreeze","Gutierrez Juan Q","Dirt",136,0.10,1.45
+"TUP",02/07/2017,7,"Hotsouthernbreeze","Gutierrez Juan Q","Routes",39,0.15,2.13
+"TUP",02/07/2017,7,"Hotsouthernbreeze","Gutierrez Juan Q","Claim",140,0.11,1.40
+"TUP",02/07/2017,7,"Looking for Info","Silva Juan Pablo","Dirt",120,0.18,2.38
+"TUP",02/07/2017,7,"Looking for Info","Silva Juan Pablo","Routes",16,0.19,2.90
+"TUP",02/07/2017,7,"Looking for Info","Silva Juan Pablo","Claim",80,0.20,2.99
+"TUP",02/07/2017,7,"Right to Glory","Guerrero Ubaldo","1-7Days",1,0.00,0.00
+"TUP",02/07/2017,7,"Right to Glory","Guerrero Ubaldo","Sprint/Route",2,0.00,0.00
+"TUP",02/07/2017,7,"Right to Glory","Guerrero Ubaldo","Dirt",19,0.05,0.52
+"TUP",02/07/2017,7,"Right to Glory","Guerrero Ubaldo","Routes",3,0.33,3.27
+"TUP",02/07/2017,7,"Right to Glory","Guerrero Ubaldo","Claim",19,0.05,0.52
+"TUP",02/07/2017,7,"Soul Shaker","Kropius Linda","Dirt",22,0.18,1.10
+"TUP",02/07/2017,7,"Soul Shaker","Kropius Linda","Routes",10,0.20,1.16
+"TUP",02/07/2017,7,"Soul Shaker","Kropius Linda","Claim",21,0.19,1.15
+"TUP",02/07/2017,7,"Watdifrenzdzitmake","Silva Juan Pablo","Turf/Dirt",2,0.50,13.30
+"TUP",02/07/2017,7,"Watdifrenzdzitmake","Silva Juan Pablo","Dirt",120,0.18,2.38
+"TUP",02/07/2017,7,"Watdifrenzdzitmake","Silva Juan Pablo","Routes",16,0.19,2.90
+"TUP",02/07/2017,7,"Watdifrenzdzitmake","Silva Juan Pablo","Claim",80,0.20,2.99
+"TUP",02/07/2017,8,"Bullittone","Chappell Ronald M","Dirt",39,0.08,1.88
+"TUP",02/07/2017,8,"Bullittone","Chappell Ronald M","Sprint",35,0.06,1.93
+"TUP",02/07/2017,8,"Bullittone","Chappell Ronald M","Claim",39,0.08,1.88
+"TUP",02/07/2017,8,"Corsa Di Cavalli","Sepich Edward F Jr","Dirt",35,0.23,1.98
+"TUP",02/07/2017,8,"Corsa Di Cavalli","Sepich Edward F Jr","Sprint",38,0.16,1.41
+"TUP",02/07/2017,8,"Corsa Di Cavalli","Sepich Edward F Jr","Claim",34,0.18,2.19
+"TUP",02/07/2017,8,"Joe Dunk In","Diodoro Robertino","Dirt",816,0.28,2.10
+"TUP",02/07/2017,8,"Joe Dunk In","Diodoro Robertino","Sprint",697,0.28,1.98
+"TUP",02/07/2017,8,"Joe Dunk In","Diodoro Robertino","Claim",576,0.31,2.15
+"TUP",02/07/2017,8,"Lucky Moly Miner","Fulmer Drew","Route/Sprint",17,0.00,0.00
+"TUP",02/07/2017,8,"Lucky Moly Miner","Fulmer Drew","Dirt",158,0.10,1.37
+"TUP",02/07/2017,8,"Lucky Moly Miner","Fulmer Drew","Sprint",144,0.10,1.41
+"TUP",02/07/2017,8,"Lucky Moly Miner","Fulmer Drew","Claim",153,0.10,1.42
+"TUP",02/07/2017,8,"On the Turn","Metz Jeff","61-180Days",34,0.12,0.79
+"TUP",02/07/2017,8,"On the Turn","Metz Jeff","Dirt",503,0.14,1.46
+"TUP",02/07/2017,8,"On the Turn","Metz Jeff","Sprint",407,0.16,1.37
+"TUP",02/07/2017,8,"On the Turn","Metz Jeff","Claim",348,0.16,1.76
+"TUP",02/07/2017,8,"Provable","Kauffmann Paul","WonLastStart",9,0.11,0.56
+"TUP",02/07/2017,8,"Provable","Kauffmann Paul","Dirt",54,0.19,1.67
+"TUP",02/07/2017,8,"Provable","Kauffmann Paul","Sprint",50,0.20,1.71
+"TUP",02/07/2017,8,"Provable","Kauffmann Paul","Claim",49,0.14,1.19
+"TUP",02/07/2017,8,"Ranger School","Kumke Myron","Route/Sprint",12,0.00,0.00
+"TUP",02/07/2017,8,"Ranger School","Kumke Myron","Dirt",63,0.06,0.94
+"TUP",02/07/2017,8,"Ranger School","Kumke Myron","Sprint",32,0.03,0.28
+"TUP",02/07/2017,8,"Ranger School","Kumke Myron","Claim",67,0.06,0.88
+"TUP",02/07/2017,8,"Traweek","Parker Linda","Dirt",45,0.09,1.79
+"TUP",02/07/2017,8,"Traweek","Parker Linda","Sprint",35,0.11,2.30
+"TUP",02/07/2017,8,"Traweek","Parker Linda","Claim",44,0.09,1.83
